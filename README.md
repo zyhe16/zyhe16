@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, August 08, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, August 09, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.4°C - ☀️ Clear sky
+17.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: A EuroCity express train en route from Kraków, Poland to Prague, Czech Republic strikes a part of a motorway bridge that had fallen onto the railroad track near Studénka railway station in the Czech Republic and derails, killing eight people and injuring 64 others.
-- **2007**: An EF2 tornado touches down in Kings County and Richmond County, New York, the most powerful tornado in New York to date and the first in Brooklyn since 1889.
-- **2007**: Space Shuttle program: STS-118 Mission: Endeavour takes off on a mission to the International Space Station.
+- **2024**: Voepass Linhas Aéreas Flight 2283 crashes near Vinhedo, São Paulo, killing all 62 people on board.
+- **2013**: Gunmen open fire at a Sunni mosque in the city of Quetta killing at least ten people and injuring 30.
+- **2012**: Shannon Eastin becomes the first woman to officiate an NFL game.
 
 <br>
 
 **💬 Quote**<br>
-> "Fear can hold you prisoner. Hope can set you free."<br>
-> — **Stephen King**
+> "Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."<br>
+> — **Robert Greene**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit their job?*<br>
-**They didn't get arrays.**
+*Why do Java programmers wear glasses?*<br>
+**Because they don't C#.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Tests done by the Behavioral Department of the Musuem of Natural History conclude that while a dog's memory lasts about 5 minutes, a cat's recall can last as long as 16 hours.*
+*A cat's brain is more similar to a man's brain than that of a dog.*
 
 <br>
 
 **📰 Daily Tech News**
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-- [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals)
-- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-- [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
-- [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale)
-- [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/)
+- [My server is a phone now](https://seg6.space/posts/phone-server/)
+- [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+- [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/)
+- [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute)
+- [The Sound and Music of 'Hyper Light Drifter' [video]](https://gdcvault.com/play/1024135/The-Sound-and-Music-of)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 A Messier Moment for Tempel 2
+
+> Source: Dan Bartlett
+<img src='https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
