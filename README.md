@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, August 10, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, August 11, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.9°C - 🌤️ Mainly clear
+15.4°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: Forty people are killed when Sepahan Airlines Flight 5915 crashes at Tehran's Mehrabad International Airport.
-- **2009**: Twenty people are killed in Handlová, Trenčín Region, in the deadliest mining disaster in Slovakia's history.
-- **1997**: Sixteen people are killed when Formosa Airlines Flight 7601 crashes near Beigan Airport in the Matsu Islands of Taiwan.
+- **2006**: The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
+- **2000**: An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
+- **1991**: Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
 
 <br>
 
 **💬 Quote**<br>
-> "Failure comes from ego, greed, envy, fear, and imitation."<br>
-> — **Warren Buffett**
+> "Never let the things you can't do stop you from doing what you can."<br>
+> — **Ronald Reagan**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do programmers prefer dark chocolate?*<br>
-**Because it's bitter like their code.**
+*A user interface is like a joke.*<br>
+**If you have to explain it then it is not that good.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Purring does not always indicate that a cat is happy and healthy - some cats will purr loudly when they are terrified or in pain.*
+*A happy cat holds her tail high and steady.*
 
 <br>
 
 **📰 Daily Tech News**
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-- ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/)
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
-- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
-- [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-- [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com)
+- [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
+- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
+- [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+- [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
 
 <br>
 </td>
