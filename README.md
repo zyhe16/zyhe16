@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, August 11, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, August 12, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.4°C - 🌤️ Mainly clear
+15.5°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2006**: The oil tanker MT Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
-- **2000**: An air rage incident occurs on board Southwest Airlines Flight 1763 when 19-year-old Jonathan Burton attempts to storm the cockpit, but he is subdued by other passengers and dies from his injuries.
-- **1991**: Nickelodeon's first line of "Nicktoons" (Doug, Rugrats & Ren & Stimpy) premiere on the channel.
+- **2021**: Six people, five victims and the perpetrator are killed in Keyham, Plymouth in the worst mass shooting in the UK since 2010.
+- **2017**: The Unite the Right rally occurs in Charlottesville, Virginia, leading to three deaths and injuring nearly 50 more.
+- **1976**: Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
 
 <br>
 
 **💬 Quote**<br>
-> "Never let the things you can't do stop you from doing what you can."<br>
-> — **Ronald Reagan**
+> "Greatness comes from living with purpose and passion."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A user interface is like a joke.*<br>
-**If you have to explain it then it is not that good.**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A happy cat holds her tail high and steady.*
+*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-- [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
-- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
-- [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
-- [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+- [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
+- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+- [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
+- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
 
 <br>
 </td>
