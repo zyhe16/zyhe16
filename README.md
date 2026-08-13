@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, August 12, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, August 13, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.5°C - 🌤️ Mainly clear
+19.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Six people, five victims and the perpetrator are killed in Keyham, Plymouth in the worst mass shooting in the UK since 2010.
-- **2017**: The Unite the Right rally occurs in Charlottesville, Virginia, leading to three deaths and injuring nearly 50 more.
-- **1976**: Between 1,000 and 3,500 Palestinians are killed in the Tel al-Zaatar massacre, one of the bloodiest events of the Lebanese Civil War.
+- **2004**: One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
+- **1967**: Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
+- **1964**: Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
 
 <br>
 
 **💬 Quote**<br>
-> "Greatness comes from living with purpose and passion."<br>
-> — **Ralph Marston**
+> "Courage is knowing what not to fear."<br>
+> — **Plato**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*Why did the programmer's wife leave him?*<br>
+**He didn't know how to commit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
+*In 1987 cats overtook dogs as the number one pet in America.*
 
 <br>
 
 **📰 Daily Tech News**
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26)
-- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
-- [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0)
-- [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/)
+- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- [Delta](https://zed.dev/blog/introducing-delta)
+- [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
+- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
+- [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
+- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
+- [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
+- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 Stargate Milky Way
+
+> Source: Maxime Oudoux
+<img src='https://apod.nasa.gov/apod/image/2208/StargateMilkyWay_Oudoux_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
