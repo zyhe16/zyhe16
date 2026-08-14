@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, August 13, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, August 14, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.5°C - ☀️ Clear sky
+22.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
-- **1967**: Two young women became the first fatal victims of grizzly bear attacks in the 57-year history of Montana's Glacier National Park in separate incidents.
-- **1964**: Peter Allen and Gwynne Evans are hanged for the murder of John Alan West becoming the last people executed in the United Kingdom.
+- **2006**: Lebanon War: A ceasefire takes effect three days after the United Nations Security Council's approval of United Nations Security Council Resolution 1701, formally ending hostilities between Lebanon and Israel.
+- **2006**: Sri Lankan Civil War: Sixty-one schoolgirls killed in Chencholai bombing by Sri Lanka Air Force air strike.
+- **2003**: A widescale power blackout affects the northeast United States and Canada.
 
 <br>
 
 **💬 Quote**<br>
-> "Courage is knowing what not to fear."<br>
-> — **Plato**
+> "The most tragic thing in the world is a man of genius who is not a man of honor."<br>
+> — **George Bernard Shaw**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*Why did the programmer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In 1987 cats overtook dogs as the number one pet in America.*
+*Cats have 30 teeth (12 incisors, 10 premolars, 4 canines, and 4 molars), while dogs have 42. Kittens have baby teeth, which are replaced by permanent teeth around the age of 7 months.*
 
 <br>
 
 **📰 Daily Tech News**
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-- [Delta](https://zed.dev/blog/introducing-delta)
-- [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-- [Happy 45th Birthday to the IBM PC and Model F/XT](https://sharktastica.co.uk/articles/pc-fxt-45)
-- [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-- [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-- [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47)
-- [Build Wide, Ship Narrow](https://adapt.com/blog/build-wide-ship-narrow)
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [NP-Overrated](https://gruhn.me/blog/2026-08-13/)
+- [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck)
+- [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
+- [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Stargate Milky Way
+### 🌌 Total Solar Eclipse Over Spain
 
-> Source: Maxime Oudoux
-<img src='https://apod.nasa.gov/apod/image/2208/StargateMilkyWay_Oudoux_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Ruiyu Zhang  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
