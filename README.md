@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, August 15, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, August 16, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-23.4°C - ☀️ Clear sky
+18.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: US president Donald Trump meets with Russian president Vladimir Putin in Alaska, the first such summit since the 2022 Russian invasion of Ukraine.
-- **2013**: The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.
-- **1989**: China Eastern Airlines Flight 5510 crashes after takeoff from Shanghai Hongqiao International Airport, killing 34 of the 40 people on board.
+- **2015**: Trigana Air Flight 267, an ATR 42, crashes in Oksibil, Bintang Mountains Regency, killing all 54 people on board.
+- **2012**: South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.
+- **1991**: Indian Airlines Flight 257, a Boeing 737-200, crashes during approach to Imphal Airport, killing all 69 people on board.
 
 <br>
 
 **💬 Quote**<br>
-> "She who loves roses must be patient and not cry out when she is pierced by thorns."<br>
-> — **Kenji Miyazawa**
+> "It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do."<br>
+> — **Ryan Holiday**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the private classes break up?*<br>
-**Because they never saw each other.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The smallest pedigreed cat is a Singapura, which can weigh just 4 lbs (1.8 kg), or about five large cans of cat food. The largest pedigreed cats are Maine Coon cats, which can weigh 25 lbs (11.3 kg), or nearly twice as much as an average cat weighs.*
+*A cat usually has about 12 whiskers on each side of its face.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
-- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/)
-- [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/)
-- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
-- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+- [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
+- [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
+- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
+- [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
+- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
+- [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
+- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Total Solar Eclipse from Greenland
+### 🌌 Bright Perseids from Sweden
 
-> Source: On August 12
-<img src='https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg' width='100%' style='border-radius: 8px;'>
+> Source: Clear Skies
+<img src='https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
