@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, August 16, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, August 17, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.7°C - ☀️ Clear sky
+18.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Trigana Air Flight 267, an ATR 42, crashes in Oksibil, Bintang Mountains Regency, killing all 54 people on board.
-- **2012**: South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.
-- **1991**: Indian Airlines Flight 257, a Boeing 737-200, crashes during approach to Imphal Airport, killing all 69 people on board.
+- **2017**: Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.
+- **2005**: Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.
+- **1991**: Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots and kills seven people and injures six others before turning the gun on himself.
 
 <br>
 
 **💬 Quote**<br>
-> "It may take some hard work. But the more you say no to the things that don't matter, the more you can say yes to the things that do."<br>
-> — **Ryan Holiday**
+> "It's your outlook on life that counts."<br>
+> — **Betty White**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat usually has about 12 whiskers on each side of its face.*
+*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-- [ChatGPT lost 22 points of web share in a year](https://aicharts.grok.me/c/market-share)
-- [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
-- [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really)
-- [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
-- [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi)
-- [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV)
-- [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+- [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
+- [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/)
+- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Bright Perseids from Sweden
+### 🌌 Milky Way over Yellowstone
 
-> Source: Clear Skies
-<img src='https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Dave Lane
+<img src='https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
