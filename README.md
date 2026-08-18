@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, August 17, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, August 18, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.5°C - ☁️ Overcast
+17.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.
-- **2005**: Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh.
-- **1991**: Strathfield massacre: In Sydney, New South Wales, Australia, taxi driver Wade Frankum shoots and kills seven people and injures six others before turning the gun on himself.
+- **1993**: American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members.
+- **1977**: Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.
+- **1971**: Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam.
 
 <br>
 
 **💬 Quote**<br>
-> "It's your outlook on life that counts."<br>
-> — **Betty White**
+> "The key to success is emotional stability."<br>
+> — **Warren Buffett**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*A DHCP packet walks into a bar and asks for a beer.*<br>
+**Bartender says, "here, but I’ll need that back in an hour!"**
 
 <br>
 
 **🧠 Random Fact**<br>
-*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
+*A cat rubs against people not only to be affectionate but also to mark out its territory with scent glands around its face. The tail area and paws also carry the cat’s scent.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
-- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
-- [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en)
-- [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/)
-- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
-- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+- [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Milky Way over Yellowstone
+### 🌌 A Golden Corona Eclipse
 
-> Source: Dave Lane
-<img src='https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Rui Santos  (Living Impressions)
+<img src='https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
