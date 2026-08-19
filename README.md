@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, August 18, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, August 19, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.6°C - ☁️ Overcast
+18.6°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **1993**: American International Airways Flight 808 crashes at Leeward Point Field at Guantanamo Bay Naval Base in Guantánamo Bay, Cuba, injuring the three crew members.
-- **1977**: Steve Biko is arrested at a police roadblock under Terrorism Act No. 83 of 1967 in King William's Town, South Africa. He later dies from injuries sustained during this arrest, bringing attention to South Africa's apartheid policies.
-- **1971**: Vietnam War: Australia and New Zealand decide to withdraw their troops from Vietnam.
+- **2009**: A series of bombings in Baghdad, Iraq, kills 101 and injures 565 others.
+- **2002**: Khankala Mi-26 crash: A Russian Mil Mi-26 helicopter carrying troops is hit by a Chechen missile outside Grozny, killing 118 soldiers.
+- **1989**: Polish president Wojciech Jaruzelski nominates Solidarity activist Tadeusz Mazowiecki to be the first non-communist prime minister in 42 years.
 
 <br>
 
 **💬 Quote**<br>
-> "The key to success is emotional stability."<br>
-> — **Warren Buffett**
+> "The ego wants comfort and certainty. The soul wants to live fully."<br>
+> — **Maxime Lagace**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A DHCP packet walks into a bar and asks for a beer.*<br>
-**Bartender says, "here, but I’ll need that back in an hour!"**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat rubs against people not only to be affectionate but also to mark out its territory with scent glands around its face. The tail area and paws also carry the cat’s scent.*
+*Normal body temperature for a cat is 102 degrees F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
-- [Flock cameras haven't improved Atlanta's crime clearance rates](https://atlpresscollective.com/2026/07/28/flock-cameras-atlanta-clearance-rates/)
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
+- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
+- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
+- [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+- [AI usage patterns in software teams](https://linear.app/data)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Golden Corona Eclipse
+### 🌌 Perseids from Perseus
 
-> Source: Rui Santos  (Living Impressions)
-<img src='https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Jakub Kuřák
+<img src='https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
