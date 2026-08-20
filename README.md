@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, August 19, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, August 20, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.6°C - 🌧️ Drizzle
+15.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: A series of bombings in Baghdad, Iraq, kills 101 and injures 565 others.
-- **2002**: Khankala Mi-26 crash: A Russian Mil Mi-26 helicopter carrying troops is hit by a Chechen missile outside Grozny, killing 118 soldiers.
-- **1989**: Polish president Wojciech Jaruzelski nominates Solidarity activist Tadeusz Mazowiecki to be the first non-communist prime minister in 42 years.
+- **2011**: First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.
+- **2006**: Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
+- **1997**: Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
 
 <br>
 
 **💬 Quote**<br>
-> "The ego wants comfort and certainty. The soul wants to live fully."<br>
-> — **Maxime Lagace**
+> "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."<br>
+> — **James Cameron**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Normal body temperature for a cat is 102 degrees F.*
+*The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.*
 
 <br>
 
 **📰 Daily Tech News**
-- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
-- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
-- [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc)
-- [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html)
-- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
-- [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
-- [AI usage patterns in software teams](https://linear.app/data)
+- [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+- [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Perseids from Perseus
+### 🌌 Sky Glows over Paranal Observatory
 
-> Source: Jakub Kuřák
-<img src='https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Julien Looten
+<img src='https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
