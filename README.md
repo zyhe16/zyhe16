@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, August 20, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, August 21, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.5°C - ☀️ Clear sky
+16.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: First Air Flight 6560 crashes 1 mile (1.6 km) from the Resolute Bay runway, killing 12 of the 15 aboard.
-- **2006**: Sri Lankan Civil War: Sri Lankan Tamil politician and former MP S. Sivamaharajah is shot dead at his home in Tellippalai.
-- **1997**: Souhane massacre in Algeria; over 60 people are killed and 15 kidnapped.
+- **2013**: Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.
+- **2000**: American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.
+- **1993**: NASA loses contact with the Mars Observer spacecraft.
 
 <br>
 
 **💬 Quote**<br>
-> "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."<br>
-> — **James Cameron**
+> "Those who can make you believe absurdities can make you commit atrocities."<br>
+> — **Voltaire**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*The punchline often arrives before the set-up.*<br>
+**Do you know the problem with UDP jokes?**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The strongest climber among the big cats, a leopard can carry prey twice its weight up a tree.*
+*In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [Go 1.27](https://go.dev/blog/go1.27)
-- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-- [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-- [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sky Glows over Paranal Observatory
+### 🌌 The Elephant's Trunk in Cepheus
 
-> Source: Julien Looten
-<img src='https://apod.nasa.gov/apod/image/2603/TeleSkyLasers_Looten_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Eddie Sgarbossa
+<img src='https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
