@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, August 21, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, August 22, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.1°C - ☀️ Clear sky
+15.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Hundreds of people are reported killed by chemical attacks in the Ghouta region of Syria.
-- **2000**: American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.
-- **1993**: NASA loses contact with the Mars Observer spacecraft.
+- **2004**: Versions of The Scream and Madonna, two paintings by Edvard Munch, are stolen at gunpoint from a museum in Oslo, Norway.
+- **1999**: China Airlines Flight 642 crashes at Hong Kong International Airport, killing three people and injuring 208 more.
+- **1992**: FBI sniper Lon Horiuchi shoots and kills Vicki Weaver during an 11-day siege at her home at Ruby Ridge, Idaho.
 
 <br>
 
 **💬 Quote**<br>
-> "Those who can make you believe absurdities can make you commit atrocities."<br>
-> — **Voltaire**
+> "To accomplish big things, I am convinced you must first dream big dreams."<br>
+> — **Conrad Hilton**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*The punchline often arrives before the set-up.*<br>
-**Do you know the problem with UDP jokes?**
+*A DHCP packet walks into a bar and asks for a beer.*<br>
+**Bartender says, "here, but I’ll need that back in an hour!"**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In ancient Egypt, mummies were made of cats, and embalmed mice were placed with them in their tombs. In one ancient city, over 300,000 cat mummies were found.*
+*The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”*
 
 <br>
 
 **📰 Daily Tech News**
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
-- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/)
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
-- [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [Felony Bench](https://www.felonybench.com/)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
+- [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Elephant's Trunk in Cepheus
+### 🌌 Tycho Brahe Measures the Sky
 
-> Source: Eddie Sgarbossa
-<img src='https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/tycho_brahe.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
