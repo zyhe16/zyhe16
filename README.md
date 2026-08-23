@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, August 22, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, August 23, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.9°C - ☁️ Overcast
+13.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: Versions of The Scream and Madonna, two paintings by Edvard Munch, are stolen at gunpoint from a museum in Oslo, Norway.
-- **1999**: China Airlines Flight 642 crashes at Hong Kong International Airport, killing three people and injuring 208 more.
-- **1992**: FBI sniper Lon Horiuchi shoots and kills Vicki Weaver during an 11-day siege at her home at Ruby Ridge, Idaho.
+- **2011**: A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington, D.C. and the resulted damage is estimated at 200 million–300 million USD.
+- **1994**: Eugene Bullard, the only African American pilot in World War I, is posthumously commissioned as Second Lieutenant in the United States Air Force.
+- **1991**: The World Wide Web is opened to the public.
 
 <br>
 
 **💬 Quote**<br>
-> "To accomplish big things, I am convinced you must first dream big dreams."<br>
-> — **Conrad Hilton**
+> "If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."<br>
+> — **Unknown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A DHCP packet walks into a bar and asks for a beer.*<br>
-**Bartender says, "here, but I’ll need that back in an hour!"**
+*Why do programmers prefer dark chocolate?*<br>
+**Because it's bitter like their code.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The little tufts of hair in a cat’s ear that help keep out dirt direct sounds into the ear, and insulate the ears are called “ear furnishings.”*
+*Edward Lear, author of \The Owl and the Pussycat\"", is said to have had his new house in San Remo built to exactly the same specification as his previous residence, so that his much-loved tabby, Foss, would immediately feel at home."""*
 
 <br>
 
 **📰 Daily Tech News**
-- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
-- [Felony Bench](https://www.felonybench.com/)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
-- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
-- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-- [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- [People of ACM – Russ Cox](https://www.acm.org/articles/people-of-acm/2026/russ-cox)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+- [Hister – A private, full content search index that you control](https://hister.org/)
+- [NetBSD and my life (2005)](https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html)
+- [RF Cafe](https://www.rfcafe.com/)
+- [typ.ing](https://typ.ing/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Tycho Brahe Measures the Sky
+### 🌌 Mostly Perseids
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/tycho_brahe.gif' width='100%' style='border-radius: 8px;'>
+> Source: Valašské Meziříčí Observatory
+<img src='https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
