@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, August 24, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, August 25, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.7°C - ☀️ Clear sky
+14.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: An earthquake strikes Central Italy with a magnitude of 6.2, with aftershocks felt as far as Rome and Florence. Around 300 people are killed.
-- **2010**: Henan Airlines Flight 8387 crashes at Yichun Lindu Airport in Yichun, Heilongjiang, China, killing 44 out of the 96 people on board.
-- **2010**: Agni Air Flight 101 crashes near Shikharpur, Makwanpur, Nepal, killing all 14 people on board.
+- **2012**: Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.
+- **1997**: Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.
+- **1991**: The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).
 
 <br>
 
 **💬 Quote**<br>
-> "Life has more imagination than we carry in our dreams."<br>
-> — **Christopher Columbus**
+> "You are what you believe yourself to be."<br>
+> — **Paulo Coelho**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*An IPv6 packet is walking out of the house.*<br>
-**He goes nowhere.**
+*Which song would an exception sing?*<br>
+**Can't catch me - Avicii**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Egyptian Mau is probably the oldest breed of cat. In fact, the breed is so ancient that its name is the Egyptian word for “cat.”*
+*A cat cannot see directly under its nose.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
-- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html)
-- [What Is a Harness?](https://earendil.com/posts/what-is-a-harness/)
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
-- [AI Chip Architectures](https://www.jepeake.com/ai-chip-architectures)
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+- [Moon (2024)](https://ciechanow.ski/moon/)
+- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+- [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+- [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
+- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
+- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 IC 405: The Flaming Star Nebula
+### 🌌 Comet 220P in Outburst
 
-> Source: Eric Coles
-<img src='https://apod.nasa.gov/apod/image/2001/IC405hp_ColesHelm_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Spilios Asimakopoulos
+<img src='https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
