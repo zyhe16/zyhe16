@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, August 25, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, August 26, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.6°C - ☀️ Clear sky
+15.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: Voyager 1 spacecraft enters interstellar space, becoming the first man-made object to do so.
-- **1997**: Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.
-- **1991**: The Battle of Vukovar begins. An 87-day siege of Vukovar by the Yugoslav People's Army (JNA), supported by various Serb paramilitary forces, between August and November 1991 (during the Croatian War of Independence).
+- **2011**: The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.
+- **1998**: The first flight of the Boeing Delta III ends in disaster 75 seconds after liftoff, resulting in the loss of the Galaxy X  communications satellite.
+- **1997**: Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.
 
 <br>
 
 **💬 Quote**<br>
-> "You are what you believe yourself to be."<br>
-> — **Paulo Coelho**
+> "Fear does not have any special power unless you empower it by submitting to it."<br>
+> — **Les Brown**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Which song would an exception sing?*<br>
-**Can't catch me - Avicii**
+*Why was the JavaScript developer sad?*<br>
+**He didn't know how to null his feelings.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat cannot see directly under its nose.*
+*In the 1750s, Europeans introduced cats into the Americas to control pests.*
 
 <br>
 
 **📰 Daily Tech News**
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-- [Moon (2024)](https://ciechanow.ski/moon/)
-- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
-- [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
-- [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk)
-- [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf)
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
+- [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+- [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
+- [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html)
+- [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
+- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Comet 220P in Outburst
+### 🌌 Earth's Shadow Visualized with Lunar Eclipses
 
-> Source: Spilios Asimakopoulos
-<img src='https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Tim Martin
+<img src='https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
