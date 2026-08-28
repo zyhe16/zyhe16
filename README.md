@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, August 27, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, August 28, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.6°C - ☁️ Overcast
+19.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2009**: Internal conflict in Myanmar: The Burmese military junta and ethnic armies begin three days of violent clashes in the Kokang Special Region.
-- **2003**: The first six-party talks, involving South and North Korea, the United States, China, Japan and Russia, convene to find a peaceful resolution to the security concerns of the North Korean nuclear weapons program.
-- **1985**: Major General Muhammadu Buhari, Chairman of the Supreme Military Council of Nigeria, is ousted from power in a coup d'état led by Major General Ibrahim Babangida.
+- **2003**: In "one of the most complicated and bizarre crimes in the annals of the FBI", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device.
+- **1996**: Chicago Seven defendant David Dellinger, antiwar activist Bradford Lyttle, Civil Rights Movement historian Randy Kryn, and eight others are arrested by the Federal Protective Service while protesting in a demonstration at the Kluczynski Federal Building in downtown Chicago during that year's Democratic National Convention.
+- **1993**: A Tajikistan Airlines Yakovlev Yak-40 crashes during takeoff from Khorog Airport in Tajikistan, killing 82.
 
 <br>
 
 **💬 Quote**<br>
-> "Art is to console those who are broken by life."<br>
-> — **Vincent van Gogh**
+> "I cannot make my days longer so I strive to make them better."<br>
+> — **Henry David Thoreau**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*To understand what recursion is...*<br>
-**You must first understand what recursion is**
+*Why did the developer go broke buying Bitcoin?*<br>
+**He kept calling it bytecoin and didn't get any.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's smell is their strongest sense, and they rely on this leading sense to identify people and objects; a feline's sense of smell is 14x better than a human's.*
+*Cats must have fat in their diet because they can't produce it on their own.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-- [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive)
-- [Pnpm 12.0](https://pnpm.io/blog/releases/12.0)
-- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
-- [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
-- [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat)
-- [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html)
+- [Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo)
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [That's a Lot of YAML](https://noyaml.com/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
+- [507 Mechanical Movements](https://507movements.com/)
+- [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
+- [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Colorful Aurora over Icelandic Waterfall
+### 🌌 The Sky Turns Above Paranal
 
-> Source: Victor Lima  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Osvaldo Castillo
+<img src='https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
