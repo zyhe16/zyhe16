@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, August 28, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, August 29, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.7°C - ☁️ Overcast
+15.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: In "one of the most complicated and bizarre crimes in the annals of the FBI", Brian Wells dies after becoming involved in a complex plot involving a bank robbery, a scavenger hunt, and a homemade explosive device.
-- **1996**: Chicago Seven defendant David Dellinger, antiwar activist Bradford Lyttle, Civil Rights Movement historian Randy Kryn, and eight others are arrested by the Federal Protective Service while protesting in a demonstration at the Kluczynski Federal Building in downtown Chicago during that year's Democratic National Convention.
-- **1993**: A Tajikistan Airlines Yakovlev Yak-40 crashes during takeoff from Khorog Airport in Tajikistan, killing 82.
+- **2012**: At least 26 Chinese miners are killed and 21 missing after a blast in the Xiaojiawan coal mine, located at Panzhihua, Sichuan Province.
+- **1997**: At least 98 villagers are killed by the Armed Islamic Group of Algeria GIA in the Rais massacre, Algeria.
+- **1982**: Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.
 
 <br>
 
 **💬 Quote**<br>
-> "I cannot make my days longer so I strive to make them better."<br>
-> — **Henry David Thoreau**
+> "Being ignorant is not so much a shame, as being unwilling to learn."<br>
+> — **Benjamin Franklin**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke buying Bitcoin?*<br>
-**He kept calling it bytecoin and didn't get any.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats must have fat in their diet because they can't produce it on their own.*
+*A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Overcooked? Why robotic pizza makers are failing](https://www.bbc.com/news/articles/czxq0wgkkdjo)
-- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-- [That's a Lot of YAML](https://noyaml.com/)
-- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
-- [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
-- [507 Mechanical Movements](https://507movements.com/)
-- [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/)
-- [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/)
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
+- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+- [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Sky Turns Above Paranal
+### 🌌 Eclipse Pair
 
-> Source: Osvaldo Castillo
-<img src='https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Gwenaël Blanck
+<img src='https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
