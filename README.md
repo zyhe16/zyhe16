@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, August 29, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, August 30, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.7°C - ☀️ Clear sky
+17.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: At least 26 Chinese miners are killed and 21 missing after a blast in the Xiaojiawan coal mine, located at Panzhihua, Sichuan Province.
-- **1997**: At least 98 villagers are killed by the Armed Islamic Group of Algeria GIA in the Rais massacre, Algeria.
-- **1982**: Meitnerium, a synthetic chemical element with the atomic number 109, is first synthesized at the Gesellschaft für Schwerionenforschung in Darmstadt, Germany.
+- **1991**: Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
+- **1983**: STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.
+- **1974**: A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.
 
 <br>
 
 **💬 Quote**<br>
-> "Being ignorant is not so much a shame, as being unwilling to learn."<br>
-> — **Benjamin Franklin**
+> "Don't shortchange yourself when it comes to investing in your own better future."<br>
+> — **Jim Rohn**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*An IPv6 packet is walking out of the house.*<br>
+**He goes nowhere.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat almost never meows at another cat, mostly just humans. Cats typically will spit, purr, and hiss at other cats.*
+*In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
-- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
-- [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/)
-- [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-- [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+- [Bug Blindness](https://danluu.com/bug-blind/)
+- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
+- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+- [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
+- [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger)
+- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
 
 <br>
 </td>
