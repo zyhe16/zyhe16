@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, August 30, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, August 31, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.7°C - ☁️ Overcast
+16.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1991**: Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
-- **1983**: STS-8: The Space Shuttle Challenger takes off on the first night launch of the shuttle program. Guion Bluford becomes the first African-American in space on this mission.
-- **1974**: A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.
+- **2025**: An earthquake in eastern Afghanistan kills over 1400 people.
+- **2006**: Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
+- **1996**: Saddam Hussein's troops seize Irbil after the Kurdish Masoud Barzani appealed for help to defeat his Kurdish rival PUK.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't shortchange yourself when it comes to investing in your own better future."<br>
-> — **Jim Rohn**
+> "The two most important days in your life are the day you are born and the day you find out why."<br>
+> — **Mark Twain**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*An IPv6 packet is walking out of the house.*<br>
-**He goes nowhere.**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*In Ancient Egypt, when a person's house cat passed away, the owner would shave their eyebrows to reflect their grief.*
+* A cat only has the ability to move their jaw up and down, not side to side like a human can.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Bug Blindness](https://danluu.com/bug-blind/)
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/)
-- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-- [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
-- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
-- [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/)
-- [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger)
-- [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/)
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
+- [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
+- [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
+- [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html)
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Eclipse Pair
+### 🌌 M74: A Grand Design Spiral
 
-> Source: Gwenaël Blanck
-<img src='https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
