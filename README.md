@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, August 31, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, September 01, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.8°C - ☀️ Clear sky
+16.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: An earthquake in eastern Afghanistan kills over 1400 people.
-- **2006**: Edvard Munch's famous painting, The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
-- **1996**: Saddam Hussein's troops seize Irbil after the Kurdish Masoud Barzani appealed for help to defeat his Kurdish rival PUK.
+- **1982**: The United States Air Force Space Command is founded.
+- **1981**: Central African President David Dacko is ousted from power in a bloodless military coup led by General André Kolingba.
+- **1923**: The Great Kantō Earthquake devastates Tokyo and Yokohama, killing about 105,000 people.
 
 <br>
 
 **💬 Quote**<br>
-> "The two most important days in your life are the day you are born and the day you find out why."<br>
-> — **Mark Twain**
+> "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."<br>
+> — **Elon Musk**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-* A cat only has the ability to move their jaw up and down, not side to side like a human can.*
+*The cat appears to be the only domestic companion animal not mentioned in the Bible.*
 
 <br>
 
 **📰 Daily Tech News**
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)
-- [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox)
-- [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
-- [CobaltC – The Successor to C?](https://strawberry9.github.io/the-wrong-memory/Appendix_06.html)
-- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
-- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [Playa Phone](https://playaphone.com/)
+- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
+- [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
+- [Lion-man](https://en.wikipedia.org/wiki/Lion-man)
+- [Borges Labyrinth in Venice reopens to the public](https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening)
+- [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 M74: A Grand Design Spiral
+### 🌌 The Traffic in Taurus
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Lionel Majzik
+<img src='https://apod.nasa.gov/apod/image/2004/TrafficTaurusLionelMajzik_1067.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
