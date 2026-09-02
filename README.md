@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, September 01, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, September 02, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.0°C - ☁️ Overcast
+15.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1982**: The United States Air Force Space Command is founded.
-- **1981**: Central African President David Dacko is ousted from power in a bloodless military coup led by General André Kolingba.
-- **1923**: The Great Kantō Earthquake devastates Tokyo and Yokohama, killing about 105,000 people.
+- **2022**: Eighteen people are killed and 23 others are injured by a suicide bombing at a Sunni mosque in Herat, Afghanistan.
+- **2010**: Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
+- **1992**: The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
 
 <br>
 
 **💬 Quote**<br>
-> "It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."<br>
-> — **Elon Musk**
+> "You came empty handed, and you will leave empty handed."<br>
+> — **Bhagavad Gita**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*Why did the programmer quit their job?*<br>
+**They didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The cat appears to be the only domestic companion animal not mentioned in the Bible.*
+*Female cats tend to be right pawed, while male cats are more often left pawed. Interestingly, while 90% of humans are right handed, the remaining 10% of lefties also tend to be male.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
-- [Playa Phone](https://playaphone.com/)
-- [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
-- [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE)
-- [Lion-man](https://en.wikipedia.org/wiki/Lion-man)
-- [Borges Labyrinth in Venice reopens to the public](https://www.wallpaper.com/design-interiors/labirinto-borges-venice-reopening)
-- [Dwarf Fortress is getting the mother of all magic updates](https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe)
+- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
+- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
+- [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
+- [Sonic Pi](https://sonic-pi.net/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Traffic in Taurus
+### 🌌 A Plane Lunar Eclipse
 
-> Source: Lionel Majzik
-<img src='https://apod.nasa.gov/apod/image/2004/TrafficTaurusLionelMajzik_1067.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
