@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, September 02, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, September 03, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.0°C - ☁️ Overcast
+18.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Eighteen people are killed and 23 others are injured by a suicide bombing at a Sunni mosque in Herat, Afghanistan.
-- **2010**: Israel-Palestinian conflict: the 2010 Israeli-Palestinian peace talks are launched by the United States.
-- **1992**: The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).
+- **1971**: Qatar becomes an independent state.
+- **1967**: Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
+- **1954**: The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
 
 <br>
 
 **💬 Quote**<br>
-> "You came empty handed, and you will leave empty handed."<br>
-> — **Bhagavad Gita**
+> "Embrace the life you have and stop wishing that you could be someone else."<br>
+> — **Joyce Meyer**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit their job?*<br>
-**They didn't get arrays.**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Female cats tend to be right pawed, while male cats are more often left pawed. Interestingly, while 90% of humans are right handed, the remaining 10% of lefties also tend to be male.*
+*Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox)
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
-- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
-- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
-- [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/)
-- [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/)
-- [Sonic Pi](https://sonic-pi.net/)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+- [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
+- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
+- [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
+- [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
+- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Plane Lunar Eclipse
+### 🌌 Solar Eclipses and Culture
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Javier Castro  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
