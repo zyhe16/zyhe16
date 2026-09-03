@@ -2,8 +2,9 @@ name: Update README with Daily Content
 
 on:
   schedule:
-    # Runs at midnight UTC every day
-    - cron: '0 0 * * *'
+    # Primary daily update and a same-day fallback, both in UTC.
+    - cron: '17 0 * * *'
+    - cron: '47 12 * * *'
   push:
     branches:
       - main
@@ -19,18 +20,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Check whether today's content is already present
+        id: freshness
+        run: |
+          if python readme_freshness.py; then
+            echo "needs_update=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "needs_update=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Set up Python
+        if: steps.freshness.outputs.needs_update == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
+        if: steps.freshness.outputs.needs_update == 'true'
         run: pip install -r requirements.txt
 
       - name: Run update script
+        if: steps.freshness.outputs.needs_update == 'true'
         run: python update_readme.py
 
       - name: Commit and push changes
+        if: steps.freshness.outputs.needs_update == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -38,6 +52,7 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Daily content refresh" && git push)
 
   generate-snake:
+    if: github.event_name != 'schedule' || github.event.schedule != '47 12 * * *'
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -59,4 +74,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

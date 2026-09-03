@@ -7,7 +7,13 @@ import datetime
 import re
 import random
 import requests
-import sys
+
+from readme_freshness import (
+    DAILY_CONTENT_PATTERN,
+    get_current_utc_day_and_date,
+    has_current_daily_content,
+)
+
 
 def get_random_quote():
     """Fetch a random quote from ZenQuotes API."""
@@ -183,10 +189,7 @@ def get_useless_fact():
 
 def get_current_datetime():
     """Get current day name and formatted date."""
-    now = datetime.datetime.now(datetime.timezone.utc)
-    day_name = now.strftime("%A")
-    date_str = now.strftime("%B %d, %Y")
-    return day_name, date_str
+    return get_current_utc_day_and_date()
 
 def get_daily_message(day_name):
     """Return a specific message based on the day of the week."""
@@ -204,6 +207,20 @@ def get_daily_message(day_name):
 def update_readme():
     """Update README.md with dynamic dashboard content."""
     day_name, date_str = get_current_datetime()
+
+    # Read and check the current README before calling any external APIs. This
+    # makes later workflow attempts a no-op after the first successful update.
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme_content = f.read()
+    except FileNotFoundError:
+        print("README.md not found.")
+        return
+
+    if has_current_daily_content(readme_content, day_name, date_str):
+        print("README already contains today's daily content; skipping update.")
+        return
+
     quote, author = get_random_quote()
     weather_info = get_weather()
     joke_setup, joke_punchline = get_joke()
@@ -271,18 +288,14 @@ def update_readme():
 
 <!-- DAILY_CONTENT_END -->"""
 
-    # Read the current README
-    try:
-        with open("README.md", "r", encoding="utf-8") as f:
-            readme_content = f.read()
-    except FileNotFoundError:
-        print("README.md not found.")
-        return
-
     # Replace content between markers
-    pattern = r"<!-- DAILY_CONTENT_START -->.*?<!-- DAILY_CONTENT_END -->"
-    if re.search(pattern, readme_content, re.DOTALL):
-        new_content = re.sub(pattern, lambda m: dynamic_content, readme_content, flags=re.DOTALL)
+    if re.search(DAILY_CONTENT_PATTERN, readme_content, re.DOTALL):
+        new_content = re.sub(
+            DAILY_CONTENT_PATTERN,
+            lambda m: dynamic_content,
+            readme_content,
+            flags=re.DOTALL,
+        )
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(new_content)
         print(f"✅ README updated successfully with new layout!")
