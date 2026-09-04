@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, September 03, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, September 04, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.9°C - ☁️ Overcast
+20.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1971**: Qatar becomes an independent state.
-- **1967**: Dagen H in Sweden: Traffic changes from driving on the left to driving on the right overnight.
-- **1954**: The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.
+- **2022**: Ten people are killed and 15 are injured in  a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
+- **2007**: Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
+- **1998**: Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
 
 <br>
 
 **💬 Quote**<br>
-> "Embrace the life you have and stop wishing that you could be someone else."<br>
-> — **Joyce Meyer**
+> "Successful people tend to become more successful because they are always thinking about their successes."<br>
+> — **Brian Tracy**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Phoenician cargo ships are thought to have brought the first domesticated cats to Europe in about 900 BC.*
+*A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
-- [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
-- [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://news.ycombinator.com/item?id=49543530)
-- [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/)
-- [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/)
-- [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
+- [How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)
+- [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
+- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Solar Eclipses and Culture
+### 🌌 Dark Sand Cascades on Mars
 
-> Source: Javier Castro  Text: Keighley Rockcliffe   (NASA GSFC,  UMBC CSST,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/1211/almosttrees_mro_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
