@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, September 04, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, September 05, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-20.8°C - ☁️ Overcast
+15.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Ten people are killed and 15 are injured in  a stabbing spree in 13 locations on the James Smith Cree Nation and in Weldon, Saskatchewan.
-- **2007**: Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
-- **1998**: Google is founded by Larry Page and Sergey Brin, two PhD students at Stanford University.
+- **2005**: Mandala Airlines Flight 091 crashes after takeoff from Polonia International Airport in Medan, Indonesia, killing 149.
+- **1986**: Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.
+- **1984**: Western Australia becomes the last Australian state to abolish capital punishment.
 
 <br>
 
 **💬 Quote**<br>
-> "Successful people tend to become more successful because they are always thinking about their successes."<br>
-> — **Brian Tracy**
+> "It takes half your life before you discover life is a do-it-yourself project."<br>
+> — **Napoleon Hill**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*Why did the programmer's wife leave him?*<br>
+**He didn't know how to commit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat’s back is extremely flexible because it has up to 53 loosely fitting vertebrae. Humans only have 34.*
+*Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!*
 
 <br>
 
 **📰 Daily Tech News**
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
-- [A Mysterious Kidney Disease Has Arrived in Texas](https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/)
-- [How an MIT research project became the Julia programming language](https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831)
-- [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM)
-- [From Hookswitch to Grave](https://computer.rip/2026-06-14-hookswitch-to-grave.html)
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Dark Sand Cascades on Mars
+### 🌌 Chasing the Moon's Shadow
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/1211/almosttrees_mro_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
