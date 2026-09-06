@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, September 05, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, September 06, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-15.6°C - ☁️ Overcast
+12.0°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2005**: Mandala Airlines Flight 091 crashes after takeoff from Polonia International Airport in Medan, Indonesia, killing 149.
-- **1986**: Pan Am Flight 73 from Mumbai, India with 358 people on board is hijacked at Karachi International Airport.
-- **1984**: Western Australia becomes the last Australian state to abolish capital punishment.
+- **2022**: Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.
+- **2018**: Brazilian presidential candidate Jair Bolsonaro survives a stabbing at a campaign rally in Juiz de Fora, Minas Gerais.
+- **2012**: Sixty-one people die after a fishing boat capsizes off the İzmir Province coast of Turkey, near the Greek Aegean islands.
 
 <br>
 
 **💬 Quote**<br>
-> "It takes half your life before you discover life is a do-it-yourself project."<br>
-> — **Napoleon Hill**
+> "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."<br>
+> — **Sonia Ricotti**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*An IPv6 packet is walking out of the house.*<br>
+**He goes nowhere.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Statistics indicate that animal lovers in recent years have shown a preference for cats over dogs!*
+*A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
-- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
-- [Statichost.eu – European static site hosting](https://www.statichost.eu/)
-- [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
-- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
-- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+- [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
+- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
+- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
+- [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
+- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Chasing the Moon's Shadow
+### 🌌 Pluto in Enhanced Color
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
