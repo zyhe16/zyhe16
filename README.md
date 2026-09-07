@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, September 06, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, September 07, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.0°C - ☀️ Clear sky
+18.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Boris Johnson resigns as Prime Minister of the United Kingdom, and is replaced by Liz Truss. Their meetings with Queen Elizabeth II at Balmoral Castle were the Queen's final official duties before her death two days later.
-- **2018**: Brazilian presidential candidate Jair Bolsonaro survives a stabbing at a campaign rally in Juiz de Fora, Minas Gerais.
-- **2012**: Sixty-one people die after a fishing boat capsizes off the İzmir Province coast of Turkey, near the Greek Aegean islands.
+- **2021**: Bitcoin becomes legal tender in El Salvador.
+- **2019**: Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.
+- **1984**: An explosion on board a Maltese patrol boat disposing of illegal fireworks at sea off Gozo kills seven soldiers and policemen.
 
 <br>
 
 **💬 Quote**<br>
-> "The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."<br>
-> — **Sonia Ricotti**
+> "The easiest way in the world to make enemies is to hire friends."<br>
+> — **George Lorimer**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*An IPv6 packet is walking out of the house.*<br>
-**He goes nowhere.**
+*Why did the programmer always carry a pencil?*<br>
+**They preferred to write in C#.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat’s heart beats nearly twice as fast as a human heart, at 110 to 140 beats a minute.*
+*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
-- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-- [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
-- [Chrome again exempts Google from user site data settings](https://lapcatsoftware.com/articles/2026/9/1.html)
-- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
-- [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket)
-- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
+- [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+- [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
+- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
+- [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Pluto in Enhanced Color
+### 🌌 The Pelican Nebula in Gas, Dust, and Stars
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Mark Killion
+<img src='https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
