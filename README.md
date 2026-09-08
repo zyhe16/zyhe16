@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, September 07, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, September 08, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-18.2°C - ☁️ Overcast
+19.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: Bitcoin becomes legal tender in El Salvador.
-- **2019**: Ukrainian filmmaker Oleg Sentsov and 66 others are released in a prisoner exchange between Ukraine and Russia.
-- **1984**: An explosion on board a Maltese patrol boat disposing of illegal fireworks at sea off Gozo kills seven soldiers and policemen.
+- **2016**: NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.
+- **2000**: NASA launches Space Shuttle Atlantis on STS-106 to resupply the International Space Station.
+- **1975**: Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline "I Am A Homosexual". He is given a general discharge, later upgraded to honorable.
 
 <br>
 
 **💬 Quote**<br>
-> "The easiest way in the world to make enemies is to hire friends."<br>
-> — **George Lorimer**
+> "Expect the best of yourself, and then do what is necessary to make it a reality."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer always carry a pencil?*<br>
-**They preferred to write in C#.**
+*Why did the programmer always mix up Halloween and Christmas?*<br>
+**Because Oct 31 equals Dec 25.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
+*Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
-- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-- [I'm a seeing-eye dog for a computer](https://claytonwramsey.com/blog/seeing-eye/)
-- [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
-- [Ask HN: Fable hacked my piano, can I release the results?](https://news.ycombinator.com/item?id=49577129)
-- [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+- [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com)
+- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
+- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
+- [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/)
+- [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
+- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 The Pelican Nebula in Gas, Dust, and Stars
+### 🌌 Hubble: Decagon Around Saturn's South Pole
 
-> Source: Mark Killion
-<img src='https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
