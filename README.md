@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, September 08, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, September 09, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.5°C - ☁️ Overcast
+12.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.
-- **2000**: NASA launches Space Shuttle Atlantis on STS-106 to resupply the International Space Station.
-- **1975**: Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline "I Am A Homosexual". He is given a general discharge, later upgraded to honorable.
+- **2025**: Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.
+- **2016**: The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
+- **2015**: Elizabeth II becomes the longest reigning monarch of the United Kingdom.
 
 <br>
 
 **💬 Quote**<br>
-> "Expect the best of yourself, and then do what is necessary to make it a reality."<br>
-> — **Ralph Marston**
+> "You're only given a little spark of madness. You mustn't lose it."<br>
+> — **Robin Williams**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer always mix up Halloween and Christmas?*<br>
-**Because Oct 31 equals Dec 25.**
+*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
+**the rest of them will write Perl**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Contrary to popular belief, the cat is a social animal. A pet cat will respond and answer to speech , and seems to enjoy human companionship.*
+*Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking.*
 
 <br>
 
 **📰 Daily Tech News**
-- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-- [A Screensaver for LG's Spying Smart TVs](https://weowntheglass.com)
-- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
-- [John Margolies' photographs of roadside America](https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/)
-- [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/)
-- [How well do agents use test/verification techniques?](https://danluu.com/agentic-testing/)
+- [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
+- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
+- [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)
 
 <br>
 </td>
@@ -59,10 +59,11 @@
 </table>
 <br>
 
-### 🌌 Hubble: Decagon Around Saturn's South Pole
+### 🌌 Catching Falling Stardust
+Credit:
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/9702/dusttrk_stardust_sm.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
