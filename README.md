@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, September 09, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, September 10, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.9°C - ☁️ Overcast
+11.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: Six people are killed when Israel carries out an airstrike on Doha in a failed attempt to decapitate the Hamas leadership.
-- **2016**: The government of North Korea conducts its fifth and reportedly biggest nuclear test. World leaders condemn the act, with South Korea calling it "maniacal recklessness".
-- **2015**: Elizabeth II becomes the longest reigning monarch of the United Kingdom.
+- **2025**: American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.
+- **2008**: The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
+- **2007**: Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
 
 <br>
 
 **💬 Quote**<br>
-> "You're only given a little spark of madness. You mustn't lose it."<br>
-> — **Robin Williams**
+> "It doesn't matter how much you want. What really matters is how much you want it."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program*<br>
-**the rest of them will write Perl**
+*How many React developers does it take to change a lightbulb?*<br>
+**None, they prefer dark mode.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Of all the species of cats, the domestic cat is the only species able to hold its tail vertically while walking. All species of wild cats hold their tail horizontally or tucked between their legs while walking.*
+*Cats have 300 million neurons; dogs have about 160 million*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tension wood: A 'muscle' that can both bend and straighten plants](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
-- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-- [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
-- [Mercury 2.5](https://www.inceptionlabs.ai/blog/introducing-mercury-2-5)
-- [An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+- [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
+- [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
+- [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/)
+- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
 
 <br>
 </td>
@@ -59,11 +59,10 @@
 </table>
 <br>
 
-### 🌌 Catching Falling Stardust
-Credit:
+### 🌌 LDN 1295: The Giraffe Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/9702/dusttrk_stardust_sm.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Alessandro Merga  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
