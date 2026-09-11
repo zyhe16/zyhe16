@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, September 10, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, September 11, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.1°C - ☀️ Clear sky
+14.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: American right-wing political activist Charlie Kirk is assassinated while onstage at Utah Valley University in Orem, Utah.
-- **2008**: The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
-- **2007**: Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
+- **2012**: A total of 315 people are killed in two garment factory fires in Pakistan.
+- **2008**: A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
+- **1997**: After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.
 
 <br>
 
 **💬 Quote**<br>
-> "It doesn't matter how much you want. What really matters is how much you want it."<br>
-> — **Ralph Marston**
+> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing."<br>
+> — **Herodotus**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many React developers does it take to change a lightbulb?*<br>
-**None, they prefer dark mode.**
+*Why did the programmer's wife leave him?*<br>
+**He didn't know how to commit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have 300 million neurons; dogs have about 160 million*
+*Blue-eyed, pure white cats are frequently deaf.*
 
 <br>
 
 **📰 Daily Tech News**
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
-- [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-- [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
-- [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe)
-- [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](https://hugovergnes.github.io/little-lm-3-8b/)
-- [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/)
-- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+- [Finite time blowup with smooth forcing term for the incompressible porous medium](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/)
+- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
+- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+- [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 LDN 1295: The Giraffe Nebula
+### 🌌 Air Pollution Earth
 
-> Source: Alessandro Merga  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/0107/globeCO_terra.gif' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
