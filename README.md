@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, September 11, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, September 12, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-14.5°C - ☁️ Overcast
+13.2°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2012**: A total of 315 people are killed in two garment factory fires in Pakistan.
-- **2008**: A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
-- **1997**: After a nationwide referendum, Scotland votes to establish a devolved parliament within the United Kingdom.
+- **2007**: Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.
+- **2003**: Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.
+- **2003**: The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.
 
 <br>
 
 **💬 Quote**<br>
-> "Of all men's miseries the bitterest is this: to know so much and to have control over nothing."<br>
-> — **Herodotus**
+> "Life begins where fear ends."<br>
+> — **Osho**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Blue-eyed, pure white cats are frequently deaf.*
+*Cats lap liquid from the underside of their tongue, not from the top.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
-- [Finite time blowup with smooth forcing term for the incompressible porous medium](https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/)
-- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
-- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
-- [Exercise intensity is associated with cardiometabolic health](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
+- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
+- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Air Pollution Earth
+### 🌌 Apollo 11: Catching Some Sun
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/0107/globeCO_terra.gif' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
