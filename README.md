@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, September 12, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, September 13, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.2°C - ⛅ Partly cloudy
+16.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2007**: Two earthquakes measuring 8.4 and 7.9 on the Richter Scale hits the Indonesian island of Sumatra, killing 25 people and injuring 161.
-- **2003**: Typhoon Maemi, the strongest recorded typhoon to strike South Korea, made landfall near Busan.
-- **2003**: The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.
+- **1982**: Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
+- **1979**: South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
+- **1971**: State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
 
 <br>
 
 **💬 Quote**<br>
-> "Life begins where fear ends."<br>
-> — **Osho**
+> "Don't let your learning lead to knowledge. Let your learning lead to action."<br>
+> — **Jim Rohn**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*Which song would an exception sing?*<br>
+**Can't catch me - Avicii**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats lap liquid from the underside of their tongue, not from the top.*
+*Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.*
 
 <br>
 
 **📰 Daily Tech News**
-- [A misalignment of AI in mathematics](https://mathandai.org/)
-- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
-- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
-- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
-- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
-- [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/)
-- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-- [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
+- [The Interim Computer Museum](https://icm.museum/)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
+- [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
+- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
+- [From Git to Fossil](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Apollo 11: Catching Some Sun
+### 🌌 Sizzling Io
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/9807/iohires_gal.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
