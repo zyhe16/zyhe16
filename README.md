@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, September 13, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, September 14, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.4°C - ☁️ Overcast
+16.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1982**: Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.
-- **1979**: South Africa grants independence to the "homeland" of Venda (not recognised outside South Africa).
-- **1971**: State police and National Guardsmen storm New York's Attica Prison to quell a prison revolt, which claimed 43 lives.
+- **2007**: Prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years.
+- **1999**: Kiribati, Nauru and Tonga join the United Nations.
+- **1998**: Telecommunications companies MCI Communications and WorldCom complete their $37 billion merger to form MCI WorldCom.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't let your learning lead to knowledge. Let your learning lead to action."<br>
-> — **Jim Rohn**
+> "Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."<br>
+> — **Charles Spurgeon**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Which song would an exception sing?*<br>
-**Can't catch me - Avicii**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats don’t have sweat glands over their bodies like humans do. Instead, they sweat only through their paws.*
+*A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.*
 
 <br>
 
 **📰 Daily Tech News**
-- [The Interim Computer Museum](https://icm.museum/)
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
-- [The Succession Crisis That Tore England Apart](https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart)
-- [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/)
-- [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
-- [From Git to Fossil](https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html)
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+- [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
+- [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Sizzling Io
+### 🌌 Where Your Elements Came From
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/9807/iohires_gal.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
