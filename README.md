@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, September 14, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, September 15, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.6°C - ☁️ Overcast
+17.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2007**: Prelude to the 2008 financial crisis: Northern Rock bank experiences the first bank run in the United Kingdom in 150 years.
-- **1999**: Kiribati, Nauru and Tonga join the United Nations.
-- **1998**: Telecommunications companies MCI Communications and WorldCom complete their $37 billion merger to form MCI WorldCom.
+- **2011**: Four miners are killed in the Gleision Colliery mining accident in the Swansea Valley, Wales.
+- **1978**: At the Superdome in New Orleans, Muhammad Ali outpoints Leon Spinks in a rematch to become the first boxer to win the world heavyweight title three times.
+- **1975**: The French department of "Corse" (the entire island of Corsica) is divided into two: Haute-Corse (Upper Corsica) and Corse-du-Sud (Southern Corsica).
 
 <br>
 
 **💬 Quote**<br>
-> "Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."<br>
-> — **Charles Spurgeon**
+> "Failure is a prerequisite for great success. If you want success faster, double your rate of failure."<br>
+> — **Brian Tracy**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*Why did the programmer always mix up Halloween and Christmas?*<br>
+**Because Oct 31 equals Dec 25.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.*
+*Cats walk on their toes.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
-- [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
-- [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list)
-- [Apple's Dimensional Drawings](https://developer.apple.com/accessories/dimensional-drawings/)
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+- [Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all](https://github.com/stoix-dev/sefaz-webservices-postman)
+- [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd)
+- [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/)
+- [XCancel service is suspended until further notice](https://xcancel.com/#)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Where Your Elements Came From
+### 🌌 A Daytime Eclipse: Moon Occults Venus
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Arnaud Mariat
+<img src='https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
