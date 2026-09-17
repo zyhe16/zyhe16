@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, September 16, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, September 17, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.9°C - ☁️ Overcast
+13.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.
-- **1994**: The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.
-- **1992**: The trial of the deposed Panamanian dictator Manuel Noriega ends in the United States with a 40-year sentence for drug trafficking and money laundering.
+- **2006**: Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.
+- **2001**: George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.
+- **1980**: After weeks of strikes at the Lenin Shipyard in Gdańsk, Poland, the nationwide independent trade union Solidarity is established.
 
 <br>
 
 **💬 Quote**<br>
-> "Live and act within the limit of your knowledge and keep expanding it to the limit of your life."<br>
-> — **Ayn Rand**
+> "It takes half your life before you discover life is a do-it-yourself project."<br>
+> — **Napoleon Hill**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How many programmers does it take to change a lightbulb?*<br>
-**None that's a hardware problem**
+*How do you comfort a designer?*<br>
+**You give them some space... between the elements.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The oldest cat on record was Crème Puff from Austin, Texas, who lived from 1967 to August 6, 2005, three days after her 38th birthday. A cat typically can live up to 20 years, which is equivalent to about 96 human years.*
+*A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
-- [An update on Wayback Machine access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
-- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
-- [Show HN: I made a flight simulator, except you're just a passenger](https://inflightsimulator.com)
-- [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html)
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/)
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+- [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
+- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Webb's View of M64
+### 🌌 A Treasure Chest in the Carina Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
