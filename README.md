@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, September 17, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, September 18, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.8°C - ☁️ Overcast
+12.8°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2006**: Fourpeaked Mountain in Alaska erupts, marking the first eruption for the volcano in at least 10,000 years.
-- **2001**: George W. Bush, president of the United States, delivers remarks at the Islamic Center of Washington praising Muslim Americans and condemning Islamophobia in the aftermath of the September 11 attacks.
-- **1980**: After weeks of strikes at the Lenin Shipyard in Gdańsk, Poland, the nationwide independent trade union Solidarity is established.
+- **2017**: Toy retail chain Toys "R" Us files for bankruptcy protection in the United States and Canada.
+- **2016**: The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.
+- **2001**: First mailing of anthrax letters from Trenton, New Jersey in the 2001 anthrax attacks.
 
 <br>
 
 **💬 Quote**<br>
-> "It takes half your life before you discover life is a do-it-yourself project."<br>
-> — **Napoleon Hill**
+> "Even the finest sword plunged into salt water will eventually rust."<br>
+> — **Sun Tzu**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you comfort a designer?*<br>
-**You give them some space... between the elements.**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A commemorative tower was built in Scotland for a cat named Towser, who caught nearly 30,000 mice in her lifetime.*
+*There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-- [The Painful Truth: The RAM Crisis Is Only Just the Beginning](https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/)
-- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- [DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression](https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
-- [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html)
-- [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338)
+- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+- [Astra for Law](https://openai.com/index/astra-for-law/)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- [Waymo in Singapore](https://waymo.com/waymo-in-singapore/)
+- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
+- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
+- [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash)
+- [Pre-Greek: The lost language hidden within Ancient Greek](https://linguisticdiscovery.com/posts/pre-greek/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Treasure Chest in the Carina Nebula
+### 🌌 Messier 33: The Triangulum Galaxy
 
-> Source: ESA/Webb, NASA & CSA, M. Reiter; Acknowledgement: M. H. Özsaraç  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
-<img src='https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg' width='100%' style='border-radius: 8px;'>
+> Source: George Chatzifrantzis
+<img src='https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
