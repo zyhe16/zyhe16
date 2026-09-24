@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, September 23, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, September 24, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.3°C - ☀️ Clear sky
+13.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Israel launches airstrikes against Hezbollah targets in Lebanon, killing more than 490 people.
-- **2022**: Voting begins in the five-day sham annexation referendums in Russian-occupied Ukraine, leading to Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts.
-- **1962**: Flying Tiger Line Flight 923, a Lockheed L-1049H Super Constellation registered as N6923C, ditches into the Atlantic Ocean killing 28 out the 76 occupants onboard. The remaining 48 were rescued six hours later.
+- **2014**: The Mars Orbiter Mission makes India the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt.
+- **2009**: The G20 summit begins in Pittsburgh with 30 global leaders in attendance.
+- **1973**: Guinea-Bissau declares its independence from Portugal.
 
 <br>
 
 **💬 Quote**<br>
-> "Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."<br>
-> — **Robert Frost**
+> "To earn more you must learn more."<br>
+> — **Brian Tracy**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*To understand what recursion is...*<br>
-**You must first understand what recursion is**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Spanish-Jewish folklore recounts that Adam’s first wife, Lilith, became a black vampire cat, sucking the blood from sleeping babies. This may be the root of the superstition that a cat will smother a sleeping baby or suck out the child’s breath.*
+*Cats only use their meows to talk to humans, not each other. The only time they meow to communicate with other felines is when they are kittens to signal to their mother.*
 
 <br>
 
 **📰 Daily Tech News**
-- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
-- [Transit rewards (Waymo pays you to take the train)](https://waymo.com/blog/2026/09/transit-rewards/)
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
-- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
-- [Data-Only Attacks Are Easier Than You Think](https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think)
-- [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/)
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Show HN: How long do I need to work at my salary before I can coast, or retire?](https://github.com/karmanyaahm/budget-tools/tree/main/fire)
+- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+- [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/)
+- [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu)
+- [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 A New Lunar Crater: McGetchin
+### 🌌 The Ghosts of Five Supernovas
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Stephane Vetter, Yann Sainty  Text:  Cecilia Chirenti  (NASA GSFC,  UMCP,  CRESST II)
+<img src='https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
