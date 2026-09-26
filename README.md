@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, September 25, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, September 26, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.9°C - ☁️ Overcast
+13.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1987**: Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.
-- **1985**: 3 civilians killed by alleged supporters of the Palestine Liberation Organization in Larnaca yacht killings.
-- **1974**: Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.
+- **2024**: Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurricane, killing over 250 people, causing US$78.7 billion in damage and becoming the deadliest hurricane in the mainland United States since Katrina.
+- **2000**: Anti-globalization protests in Prague (some 20,000 protesters) turn violent during the IMF and World Bank summits.
+- **1997**: A Garuda Indonesia Airbus A300 crashes near Medan airport, killing 234.
 
 <br>
 
 **💬 Quote**<br>
-> "Believe in your infinite potential. Your only limitations are those you set upon yourself."<br>
-> — **Roy T. Bennett**
+> "Follow the man who seeks the truth; run from the man who has found it."<br>
+> — **Vaclav Havel**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*What is the most used language in programming?*<br>
+**Profanity.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Normal body temperature for a cat is 102 degrees F.*
+*The first cat show was in 1871 at the Crystal Palace in London.*
 
 <br>
 
 **📰 Daily Tech News**
-- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
-- [2DWillNeverDie](https://2dwillneverdie.com/)
-- [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/)
-- [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
-- [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/)
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
+- [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
+- [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Globular Cluster Omega Centauri
+### 🌌 Mirrored Meteor and Milky Way
 
-> Source: Javier O. Cadenas Parra
-<img src='https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Jeff Dai
+<img src='https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
