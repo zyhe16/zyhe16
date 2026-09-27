@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, September 26, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, September 27, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.2°C - ☁️ Overcast
+11.6°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Hurricane Helene makes landfall in Perry, Florida as a Category 4 hurricane, killing over 250 people, causing US$78.7 billion in damage and becoming the deadliest hurricane in the mainland United States since Katrina.
-- **2000**: Anti-globalization protests in Prague (some 20,000 protesters) turn violent during the IMF and World Bank summits.
-- **1997**: A Garuda Indonesia Airbus A300 crashes near Medan airport, killing 234.
+- **1996**: Confusion on a tanker ship results in the Julie N oil spill in Portland, Maine.
+- **1993**: The Sukhumi massacre takes place in Abkhazia.
+- **1988**: The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
 
 <br>
 
 **💬 Quote**<br>
-> "Follow the man who seeks the truth; run from the man who has found it."<br>
-> — **Vaclav Havel**
+> "Better to have, and not need, than to need, and not have."<br>
+> — **Franz Kafka**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What is the most used language in programming?*<br>
-**Profanity.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The first cat show was in 1871 at the Crystal Palace in London.*
+*It is estimated that cats can make over 60 different sounds.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
-- [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
-- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
-- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
-- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/)
-- [Jury finds Facebook liable for deceiving users in Cambridge Analytica case](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)
-- [Postgres SELECT DISTINCT Does Not Scale](https://www.dbos.dev/blog/postgres-select-distinct-does-not-scale)
+- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+- [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
+- [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
+- [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era)
+- [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Mirrored Meteor and Milky Way
+### 🌌 Andromeda before Photoshop
 
-> Source: Jeff Dai
-<img src='https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg' width='100%' style='border-radius: 8px;'>
+> Source: NASA / APOD
+<img src='https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
