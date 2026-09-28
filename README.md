@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, September 27, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, September 28, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.6°C - ⛅ Partly cloudy
+16.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1996**: Confusion on a tanker ship results in the Julie N oil spill in Portland, Maine.
-- **1993**: The Sukhumi massacre takes place in Abkhazia.
-- **1988**: The National League for Democracy is formed by Aung San Suu Kyi and others to fight dictatorship in Myanmar.
+- **2023**: The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center.
+- **2000**: Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
+- **1994**: The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.
 
 <br>
 
 **💬 Quote**<br>
-> "Better to have, and not need, than to need, and not have."<br>
-> — **Franz Kafka**
+> "Genius is the ability to act rightly without precedent - the power to do the right thing the first time."<br>
+> — **Elbert Hubbard**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*It is estimated that cats can make over 60 different sounds.*
+*Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)
-- [OpenAI agents tried to bruteforce a UN website's API fields](https://swarmcha.se/posts/openai-unctad)
-- [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era)
-- [What is the size of Yemen? (2024)](https://theborys.substack.com/p/what-is-the-size-of-yemen)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
+- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- [Ember-1](https://fireworks.ai/blog/ember-1)
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Deterministic Concurrency [video]](https://www.youtube.com/watch?v=25x0UuSCKuU)
+- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
+- [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Andromeda before Photoshop
+### 🌌 Cosmic Latte: The Average Color of the Universe
 
 > Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg' width='100%' style='border-radius: 8px;'>
+<img src='https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
