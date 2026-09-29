@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, September 28, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, September 29, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.0°C - ☁️ Overcast
+16.7°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: The 2023 Rotterdam shootings occurred, during which two people were killed in a shooting and arson incident at a residence in Delfshaven, Rotterdam. Additionally, one person lost their life in a classroom at the Erasmus University Medical Center.
-- **2000**: Al-Aqsa Intifada: Ariel Sharon visits Al-Aqsa Mosque known to Jews as the Temple Mount in Jerusalem.
-- **1994**: The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.
+- **1992**: Brazilian President Fernando Collor de Mello is impeached.
+- **1991**: A Haitian coup d'état occurs.
+- **1990**: Construction of the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) is completed in Washington, D.C.
 
 <br>
 
 **💬 Quote**<br>
-> "Genius is the ability to act rightly without precedent - the power to do the right thing the first time."<br>
-> — **Elbert Hubbard**
+> "There is an essence of when you are fearless, you become more creative."<br>
+> — **Gurbaksh Chahal**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*How do you check if a webpage is HTML5?*<br>
+**Try it out on Internet Explorer**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Despite imagery of cats happily drinking milk from saucers, studies indicate that cats are actually lactose intolerant and should avoid it entirely.*
+*Blue-eyed, pure white cats are frequently deaf.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
-- [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
-- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
-- [Ember-1](https://fireworks.ai/blog/ember-1)
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
-- [Deterministic Concurrency [video]](https://www.youtube.com/watch?v=25x0UuSCKuU)
-- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
-- [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/)
+- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [Tank Body Problem](http://www.jimsitu.com)
+- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
+- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
+- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
 
 <br>
 </td>
@@ -59,10 +59,10 @@
 </table>
 <br>
 
-### 🌌 Cosmic Latte: The Average Color of the Universe
+### 🌌 Sh2-188: The Shrimp Nebula
 
-> Source: NASA / APOD
-<img src='https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg' width='100%' style='border-radius: 8px;'>
+> Source: Pawel Piechnik
+<img src='https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
