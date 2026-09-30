@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, September 29, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, September 30, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-16.7°C - ⛅ Partly cloudy
+19.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1992**: Brazilian President Fernando Collor de Mello is impeached.
-- **1991**: A Haitian coup d'état occurs.
-- **1990**: Construction of the Cathedral Church of Saint Peter and Saint Paul (better known as Washington National Cathedral) is completed in Washington, D.C.
+- **2016**: Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.
+- **2005**: Controversial drawings of Muhammad are printed in a Danish newspaper.
+- **2000**: Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada.
 
 <br>
 
 **💬 Quote**<br>
-> "There is an essence of when you are fearless, you become more creative."<br>
-> — **Gurbaksh Chahal**
+> "The quality of your life is determined by the quality of questions you ask."<br>
+> — **Tony Robbins**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you check if a webpage is HTML5?*<br>
-**Try it out on Internet Explorer**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Blue-eyed, pure white cats are frequently deaf.*
+*Cats respond most readily to names that end in an \ee\" sound."""*
 
 <br>
 
 **📰 Daily Tech News**
-- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- [Tank Body Problem](http://www.jimsitu.com)
-- [Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/)
-- [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/)
-- [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops)
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
+- [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
+- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 Sh2-188: The Shrimp Nebula
-
-> Source: Pawel Piechnik
-<img src='https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
