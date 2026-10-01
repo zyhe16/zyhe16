@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, September 30, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, October 01, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-19.0°C - ☁️ Overcast
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Hurricane Matthew becomes a Category 5 hurricane, making it the strongest hurricane to form in the Caribbean Sea since 2007.
-- **2005**: Controversial drawings of Muhammad are printed in a Danish newspaper.
-- **2000**: Israeli–Palestinian conflict: Twelve-year-old Muhammad al-Durrah is shot and killed on the second day of the Second Intifada.
+- **2016**: The leader of the Spanish Socialist Workers' Party, Pedro Sánchez, resigns. He would return to the position a year later.
+- **2015**: A gunman kills nine people at a community college in Oregon.
+- **2009**: The Supreme Court of the United Kingdom takes over the judicial functions of the House of Lords.
 
 <br>
 
 **💬 Quote**<br>
-> "The quality of your life is determined by the quality of questions you ask."<br>
-> — **Tony Robbins**
+> "Do the difficult things while they are easy and do the great things while they are small."<br>
+> — **Lao Tzu**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Where do programmers like to hangout?*<br>
-**The Foo Bar.**
+*What's the best thing about a Boolean?*<br>
+**Even if you're wrong, you're only off by a bit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats respond most readily to names that end in an \ee\" sound."""*
+*The largest domestic cat breed is called Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [LinkedIn Larpmaxxing](https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/)
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
-- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-- [Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)
-- [NASA asked several former SR-71A staffers to help secret restart](https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart)
-- [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
+- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
+- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
+- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
+- [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
+- [TUI Games in 80x24](https://www.incredible.rs/#blog/tui-games-in-80x24.md)
+- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
