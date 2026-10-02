@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, October 01, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, October 02, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-Weather unavailable
+12.1°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: The leader of the Spanish Socialist Workers' Party, Pedro Sánchez, resigns. He would return to the position a year later.
-- **2015**: A gunman kills nine people at a community college in Oregon.
-- **2009**: The Supreme Court of the United Kingdom takes over the judicial functions of the House of Lords.
+- **2004**: The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
+- **2002**: The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.
+- **1992**: Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.
 
 <br>
 
 **💬 Quote**<br>
-> "Do the difficult things while they are easy and do the great things while they are small."<br>
-> — **Lao Tzu**
+> "The ones who are crazy enough to think they can change the world, are the ones that do."<br>
+> — **Steve Jobs**
 
 <br>
 </td>
@@ -33,25 +33,25 @@ Weather unavailable
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best thing about a Boolean?*<br>
-**Even if you're wrong, you're only off by a bit.**
+*A SQL query walks into a bar, walks up to two tables and asks...*<br>
+**'Can I join you?'**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The largest domestic cat breed is called Ragdoll with males weighing in at 1 5 to 20 lbs. The heaviest domestic cat on record was a neutered male tabby named Himmy from Queensland, Australia who weighed 46 lbs. 1 5 oz.*
+*Cats hate the water because their fur does not insulate well when it’s wet. The Turkish Van, however, is one cat that likes swimming. Bred in central Asia, its coat has a unique texture that makes it water resistant.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
-- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
-- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-- [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
-- [TUI Games in 80x24](https://www.incredible.rs/#blog/tui-games-in-80x24.md)
-- [Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/)
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
+- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
+- [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
+- [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
 
 <br>
 </td>
