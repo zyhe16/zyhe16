@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, October 02, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, October 03, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.1°C - ☁️ Overcast
+11.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.
-- **2002**: The Beltway sniper attacks begin in Washington, D.C., extending over three weeks and killing 10 people.
-- **1992**: Military police storm the Carandiru Penitentiary in São Paulo, Brazil during a prison riot. The resulting massacre leaves 111 prisoners dead.
+- **2013**: At least 360 migrants are killed when their boat sinks near the Italian island of Lampedusa.
+- **2008**: The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
+- **1993**: An American attack against a warlord in Mogadishu fails; eighteen US soldiers and over 350 Somalis die.
 
 <br>
 
 **💬 Quote**<br>
-> "The ones who are crazy enough to think they can change the world, are the ones that do."<br>
-> — **Steve Jobs**
+> "However difficult life may seem, there is always something you can do and succeed at."<br>
+> — **Stephen Hawking**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*A SQL query walks into a bar, walks up to two tables and asks...*<br>
-**'Can I join you?'**
+*What is the most used language in programming?*<br>
+**Profanity.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats hate the water because their fur does not insulate well when it’s wet. The Turkish Van, however, is one cat that likes swimming. Bred in central Asia, its coat has a unique texture that makes it water resistant.*
+*A queen (female cat) can begin mating when she is between 5 and 9 months old.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-- [DeepSeek Harness](https://www.deepseek.com/en/harness/)
-- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
-- [Meta's Muse is fantastic for web scraping](https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/)
-- [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- [Automatic Transmission – a data-privacy study of connected vehicles](https://automatictransmission.khoury.northeastern.edu/index.html)
-- [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
+- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
+- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
 
 <br>
 </td>
