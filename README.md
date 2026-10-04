@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, October 03, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, October 04, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.2°C - ☁️ Overcast
+10.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: At least 360 migrants are killed when their boat sinks near the Italian island of Lampedusa.
-- **2008**: The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
-- **1993**: An American attack against a warlord in Mogadishu fails; eighteen US soldiers and over 350 Somalis die.
+- **2001**: Siberia Airlines Flight 1812 crashes after being struck by an errant Ukrainian missile. Seventy-eight people are killed.
+- **1993**: Tanks bombard the Russian parliament, while demonstrators against President Yeltsin rally outside.
+- **1992**: The Rome General Peace Accords end a 16-year civil war in Mozambique.
 
 <br>
 
 **💬 Quote**<br>
-> "However difficult life may seem, there is always something you can do and succeed at."<br>
-> — **Stephen Hawking**
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."<br>
+> — **Dalai Lama**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What is the most used language in programming?*<br>
-**Profanity.**
+*What's the object-oriented way to become wealthy?*<br>
+**Inheritance**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A queen (female cat) can begin mating when she is between 5 and 9 months old.*
+*A cat lover is called an Ailurophile (Greek: cat+lover).*
 
 <br>
 
 **📰 Daily Tech News**
-- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-- [Extra Big Ass Intelligence](https://www.extrabigassintelligence.com/)
-- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
-- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-- [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-- [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
-- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
-- [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+- [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+- [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician)
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
+- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+- [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
+- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
 
 <br>
 </td>
