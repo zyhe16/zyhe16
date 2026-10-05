@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, October 04, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, October 05, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.6°C - ☀️ Clear sky
+11.5°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: Siberia Airlines Flight 1812 crashes after being struck by an errant Ukrainian missile. Seventy-eight people are killed.
-- **1993**: Tanks bombard the Russian parliament, while demonstrators against President Yeltsin rally outside.
-- **1992**: The Rome General Peace Accords end a 16-year civil war in Mozambique.
+- **1994**: Swiss police find the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.
+- **1988**: A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt.
+- **1970**: The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]
 
 <br>
 
 **💬 Quote**<br>
-> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."<br>
-> — **Dalai Lama**
+> "The only way out is through."<br>
+> — **Robert Frost**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the object-oriented way to become wealthy?*<br>
-**Inheritance**
+*I was gonna tell you a joke about UDP...*<br>
+**...but you might not get it.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat lover is called an Ailurophile (Greek: cat+lover).*
+*Baking chocolate is the most dangerous chocolate to your cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-- [Why don't more developers "use the platform"?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-- [So you think you could be an electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician)
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)
-- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
-- [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
-- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
-- [Agents don't need memory, they need documentation](https://liao.gg/blog/agents-dont-need-memory)
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
+- [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)
+- [The Tao of Backup](http://www.taobackup.com/index.html)
+- [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
+- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
+- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 
 <br>
 </td>
