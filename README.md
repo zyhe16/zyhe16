@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, October 05, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, October 06, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.5°C - ☀️ Clear sky
+12.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1994**: Swiss police find the bodies of 48 members of the Order of the Solar Temple, who had died in a cult mass murder-suicide.
-- **1988**: A Chilean opposition coalition defeats Augusto Pinochet in his re-election attempt.
-- **1970**: The Public Broadcasting Service (PBS) is founded in the United States.[citation needed]
+- **2025**: The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.
+- **2018**: The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process.
+- **1977**: The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.
 
 <br>
 
 **💬 Quote**<br>
-> "The only way out is through."<br>
-> — **Robert Frost**
+> "Always do your best. What you plant now, you will harvest later."<br>
+> — **Og Mandino**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I was gonna tell you a joke about UDP...*<br>
-**...but you might not get it.**
+*I just got fired from my job at the keyboard factory.*<br>
+**They told me I wasn't putting in enough shifts.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Baking chocolate is the most dangerous chocolate to your cat.*
+*Most cats adore sardines.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/)
-- [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild)
-- [The Tao of Backup](http://www.taobackup.com/index.html)
-- [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps)
-- [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/)
-- [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
+- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
+- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
+- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
 
 <br>
 </td>
