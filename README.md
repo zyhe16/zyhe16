@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, October 06, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, October 07, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.4°C - ☁️ Overcast
+11.5°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2025**: The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.
-- **2018**: The United States Senate confirms Brett Kavanaugh as a Supreme Court Associate Justice, ending a contentious confirmation process.
-- **1977**: The first prototype of the Mikoyan MiG-29, designated 9-01, makes its maiden flight.
+- **2008**: Qantas Flight 72 experiences an in-flight upset near Exmouth, Western Australia, Australia, injuring 112.
+- **2007**: The battle of Mirali begins in which the Pakistan Armed Forces and Taliban militias clash for four days.
+- **1996**: Fox News Channel begins broadcasting.
 
 <br>
 
 **💬 Quote**<br>
-> "Always do your best. What you plant now, you will harvest later."<br>
-> — **Og Mandino**
+> "The ones who are crazy enough to think they can change the world, are the ones that do."<br>
+> — **Steve Jobs**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*I just got fired from my job at the keyboard factory.*<br>
-**They told me I wasn't putting in enough shifts.**
+*Why did the developer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Most cats adore sardines.*
+*Tigers are excellent swimmers and do not avoid water.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
-- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
-- [Find the flattest route between any two points in SF](https://flattensf.com/)
-- [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors)
-- [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust)
-- [Resurrecting iChat Audio and Video Conferencing](https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/)
-- [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/)
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+- [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
+- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
+- [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272)
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: NASA / APOD
+> Source: Ivan Eder
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
