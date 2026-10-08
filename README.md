@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, October 07, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, October 08, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.5°C - ☁️ Overcast
+13.3°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: Qantas Flight 72 experiences an in-flight upset near Exmouth, Western Australia, Australia, injuring 112.
-- **2007**: The battle of Mirali begins in which the Pakistan Armed Forces and Taliban militias clash for four days.
-- **1996**: Fox News Channel begins broadcasting.
+- **2001**: A twin engine Cessna and a Scandinavian Airlines System jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
+- **1991**: Upon the expiration of the Brioni Agreement, Croatia and Slovenia sever all official relations with Yugoslavia.
+- **1990**: First Intifada: Israeli police kill 17 Palestinians and wound over 100 near the Dome of the Rock.
 
 <br>
 
 **💬 Quote**<br>
-> "The ones who are crazy enough to think they can change the world, are the ones that do."<br>
-> — **Steve Jobs**
+> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."<br>
+> — **Sun Tzu**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer quit his job?*<br>
-**Because he didn't get arrays.**
+*Why did the designer break up with their font?*<br>
+**Because it wasn't their type.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Tigers are excellent swimmers and do not avoid water.*
+*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
-- [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/)
-- [La Cueva BBS in Mexico in 1993 (session replay)](https://nanochess.org/la_cueva_bbs.html)
-- [The cost of lies: A Mineserver story](https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272)
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
-- [EmbeddingGemma 2: An open, lightweight multimodal embedding model](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/)
+- [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
+- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t)
+- [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician))
+- ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: Ivan Eder
+> Source: NASA / APOD
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
