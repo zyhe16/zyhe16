@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, October 08, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, October 09, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.3°C - 🌧️ Drizzle
+8.9°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2001**: A twin engine Cessna and a Scandinavian Airlines System jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
-- **1991**: Upon the expiration of the Brioni Agreement, Croatia and Slovenia sever all official relations with Yugoslavia.
-- **1990**: First Intifada: Israeli police kill 17 Palestinians and wound over 100 near the Dome of the Rock.
+- **2016**: The Arakan Rohingya Salvation Army launches its first attack on Myanmar security forces along the Bangladesh–Myanmar border.
+- **1992**: The Peekskill meteorite, a 27.7 pounds (12.6 kg) meteorite crashed into a parked car in Peekskill, New York.
+- **1980**: Pope John Paul II greets the Dalai Lama during a private audience in Vatican City.
 
 <br>
 
 **💬 Quote**<br>
-> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."<br>
-> — **Sun Tzu**
+> "All life is a manifestation of the spirit, the manifestation of love."<br>
+> — **Morihei Ueshiba**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the designer break up with their font?*<br>
-**Because it wasn't their type.**
+*3 SQL statements walk into a NoSQL bar. Soon, they walk out*<br>
+**They couldn't find a table.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Some cats have survived falls of over 65 feet (20 meters), due largely to their “righting reflex.” The eyes and balance organs in the inner ear tell it where it is in space so the cat can land on its feet. Even cats without a tail have this ability.*
+*Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
-- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
-- [A 100x faster* alternative to homebrew](https://github.com/zerobrewhq/zerobrew)
-- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t)
-- [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician))
-- ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
+- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+- [Theranos.world](https://www.theranos.world/)
+- [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
+- [Yes, and](https://htmx.org/essays/yes-and/)
+- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
 
 <br>
 </td>
