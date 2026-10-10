@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, October 09, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, October 10, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.9°C - 🌧️ Drizzle
+10.7°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: The Arakan Rohingya Salvation Army launches its first attack on Myanmar security forces along the Bangladesh–Myanmar border.
-- **1992**: The Peekskill meteorite, a 27.7 pounds (12.6 kg) meteorite crashed into a parked car in Peekskill, New York.
-- **1980**: Pope John Paul II greets the Dalai Lama during a private audience in Vatican City.
+- **2018**: The National Fire and Rescue Administration is founded, replacing the China Fire Services [zh] and the People's Armed Police Forestry Corps [zh] as China's primary firefighting agency.
+- **2002**: Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+- **1979**: The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
 
 <br>
 
 **💬 Quote**<br>
-> "All life is a manifestation of the spirit, the manifestation of love."<br>
-> — **Morihei Ueshiba**
+> "He is richest who is content with the least, for content is the wealth of nature."<br>
+> — **Socrates**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*3 SQL statements walk into a NoSQL bar. Soon, they walk out*<br>
-**They couldn't find a table.**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats, especially older cats, do get cancer. Many times this disease can be treated successfully.*
+*A female cat is called a queen or a molly.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: Quake ported to safe Rust, playable in browser](https://quake-srp.pages.dev/)
-- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-- [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
-- [Theranos.world](https://www.theranos.world/)
-- [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my)
-- [Yes, and](https://htmx.org/essays/yes-and/)
-- [ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full)
+- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
+- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
+- [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
+- [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
+- [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
+- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
 
 <br>
 </td>
