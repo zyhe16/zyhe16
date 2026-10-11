@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, October 10, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, October 11, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.7°C - 🌤️ Mainly clear
+8.4°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: The National Fire and Rescue Administration is founded, replacing the China Fire Services [zh] and the People's Armed Police Forestry Corps [zh] as China's primary firefighting agency.
-- **2002**: Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.
-- **1979**: The Olkiluoto Nuclear Power Plant began operations in Eurajoki, Satakunta, Finland.
+- **2013**: A migrant boat sinks in the Channel of Sicily, with at least 359 people drowning.
+- **2002**: A bomb attack in a Myyrmanni shopping mall in Vantaa, Finland kills seven.
+- **1987**: Start of Operation Pawan by Indian forces in Sri Lanka. Thousands of civilians, insurgents, and soldiers die.
 
 <br>
 
 **💬 Quote**<br>
-> "He is richest who is content with the least, for content is the wealth of nature."<br>
-> — **Socrates**
+> "We suffer more often in imagination than in reality."<br>
+> — **Seneca**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*Why did the programmer bring a broom to work?*<br>
+**To clean up all the bugs.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A female cat is called a queen or a molly.*
+*Abraham Lincoln loved cats. He had four of them while he lived in the White House.*
 
 <br>
 
 **📰 Daily Tech News**
-- [REA Reverse – Engineer Anything](https://rea.tools/)
-- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
-- [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-- [If AI is conscient, then we are making slaves](https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi)
-- [Eye of Sauron: Long-Range Hidden Spy Camera Detection](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
-- [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/)
-- [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/)
+- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
+- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
+- [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
+- [The Lightbulb Computer](https://lightbulbcomputer.com/)
+- [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 
 <br>
 </td>
