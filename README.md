@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, October 11, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, October 12, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.4°C - ⛅ Partly cloudy
+6.7°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: A migrant boat sinks in the Channel of Sicily, with at least 359 people drowning.
-- **2002**: A bomb attack in a Myyrmanni shopping mall in Vantaa, Finland kills seven.
-- **1987**: Start of Operation Pawan by Indian forces in Sri Lanka. Thousands of civilians, insurgents, and soldiers die.
+- **2022**: 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack.
+- **2019**: The Hard Rock Hotel in New Orleans, which is under construction, collapses, killing three workers and injuring 30 others.
+- **2010**: The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally "gay night"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.
 
 <br>
 
 **💬 Quote**<br>
-> "We suffer more often in imagination than in reality."<br>
-> — **Seneca**
+> "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."<br>
+> — **Ralph Marston**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a broom to work?*<br>
-**To clean up all the bugs.**
+*Why did the developer break up with their keyboard?*<br>
+**It just wasn't their type anymore.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Abraham Lincoln loved cats. He had four of them while he lived in the White House.*
+*The female cat reaches sexual maturity within 6 to 10 months; most veterinarians suggest spaying the female at 5 months, before her first heat period. The male cat usually reaches sexual maturity between 9 and 12 months.*
 
 <br>
 
 **📰 Daily Tech News**
-- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
-- [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6)
-- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/)
-- [AI agents in a stand-up call](https://atoll92.github.io/agent-standup/)
-- [The Lightbulb Computer](https://lightbulbcomputer.com/)
-- [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
+- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
+- [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
+- [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
+- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
+- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
+- [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
 
 <br>
 </td>
