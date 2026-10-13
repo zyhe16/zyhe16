@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, October 12, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, October 13, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.7°C - ☀️ Clear sky
+12.5°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: 2022 Bratislava shooting, killing 3 (including the perpetrator) and injuring one. The shooting occurred outside of a gay bar in Bratislava known as Tepláreň. Two people (excluding the perpetrator) died as a result of the shooting: Juraj Vankulič, a non-binary person, and Matúš Horváth, a bisexual man. The perpetrator (Juraj Krajčík) was found dead of a self-inflicted gunshot the morning after the attack.
-- **2019**: The Hard Rock Hotel in New Orleans, which is under construction, collapses, killing three workers and injuring 30 others.
-- **2010**: The Finnish Yle TV2 channel's Ajankohtainen kakkonen current affairs program airs controversial Homoilta episode (literally "gay night"), which leads to the resignation of almost 50,000 Finns from the Evangelical Lutheran Church.
+- **2019**: Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.
+- **1983**: Ameritech Mobile Communications launches the first US cellular network in Chicago.
+- **1946**: France adopts the constitution of the Fourth Republic.
 
 <br>
 
 **💬 Quote**<br>
-> "Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."<br>
-> — **Ralph Marston**
+> "Falling down is not failure. Failure comes when you stay where you have fallen."<br>
+> — **Socrates**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer break up with their keyboard?*<br>
-**It just wasn't their type anymore.**
+*Why did the developer go broke buying Bitcoin?*<br>
+**He kept calling it bytecoin and didn't get any.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The female cat reaches sexual maturity within 6 to 10 months; most veterinarians suggest spaying the female at 5 months, before her first heat period. The male cat usually reaches sexual maturity between 9 and 12 months.*
+*Cats can jump up to 7 times their tail length.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
-- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-- [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/)
-- [Fingerprints Are the New Cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-- [Recursive self-improvement through collective intelligence](https://pub.sakana.ai/mass/)
-- [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046)
-- [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/)
-- [Ask HN: Do you want a router that has DD-WRT pre-installed?](https://news.ycombinator.com/item?id=50039291)
+- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+- [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
+- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
+- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
+- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
+- [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
 
 <br>
 </td>
