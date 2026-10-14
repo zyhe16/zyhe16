@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, October 13, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, October 14, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.5°C - 🌧️ Drizzle
+13.5°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Kenyan Brigid Kosgei sets a new world record for a woman runner with a time of 2:14:04 at the 2019 Chicago Marathon.
-- **1983**: Ameritech Mobile Communications launches the first US cellular network in Chicago.
-- **1946**: France adopts the constitution of the Fourth Republic.
+- **2021**: About 10,000 American employees of John Deere go on strike.
+- **2017**: An Al-Shabaab suicide bomber detonated a massive truck bomb at the Zobe junction in Somalia's capital, Mogadishu, killing 587 people, injuring 316 others, and leaving more than 500 missing.
+- **2012**: Felix Baumgartner successfully jumps to Earth from a balloon in the stratosphere.
 
 <br>
 
 **💬 Quote**<br>
-> "Falling down is not failure. Failure comes when you stay where you have fallen."<br>
-> — **Socrates**
+> "I am not proud, but I am happy; and happiness blinds, I think, more than pride."<br>
+> — **Alexandre Dumas**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer go broke buying Bitcoin?*<br>
-**He kept calling it bytecoin and didn't get any.**
+*Why did the programmer bring a broom to work?*<br>
+**To clean up all the bugs.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can jump up to 7 times their tail length.*
+*When your cats rubs up against you, she is actually marking you as 'hers' with her scent. If your cat pushes his face against your head, it is a sign of acceptance and affection.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
-- [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
-- [GLM-Legal](https://z.ai/blog/glm-legal)
-- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
-- [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-- [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html)
-- [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
-- [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident)
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
+- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+- [Apple HomeView](https://www.apple.com/apple-homeview/)
+- [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
+- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
 
 <br>
 </td>
