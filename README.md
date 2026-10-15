@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, October 14, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, October 15, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-13.5°C - 🌤️ Mainly clear
+11.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: About 10,000 American employees of John Deere go on strike.
-- **2017**: An Al-Shabaab suicide bomber detonated a massive truck bomb at the Zobe junction in Somalia's capital, Mogadishu, killing 587 people, injuring 316 others, and leaving more than 500 missing.
-- **2012**: Felix Baumgartner successfully jumps to Earth from a balloon in the stratosphere.
+- **2008**: The Dow Jones Industrial Average closes down 733.08 points, or 7.87%, the second worst percentage drop in the Dow's history.
+- **1991**: The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.
+- **1987**: Aero Trasporti Italiani Flight 460 crashes near Conca di Crezzo, Italy, killing all 37 people on board.
 
 <br>
 
 **💬 Quote**<br>
-> "I am not proud, but I am happy; and happiness blinds, I think, more than pride."<br>
-> — **Alexandre Dumas**
+> "Do the hard jobs first. The easy jobs will take care of themselves."<br>
+> — **Dale Carnegie**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer bring a broom to work?*<br>
-**To clean up all the bugs.**
+*What's the best part about TCP jokes?*<br>
+**I get to keep telling them until you get them.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*When your cats rubs up against you, she is actually marking you as 'hers' with her scent. If your cat pushes his face against your head, it is a sign of acceptance and affection.*
+*Many cats love having their forehead gently stroked.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-- [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance)
-- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
-- [Apple HomeView](https://www.apple.com/apple-homeview/)
-- [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/)
-- [Recreational Programming](https://www.cphiri.dev/presentations/recreational-programming)
+- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
+- [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
+- [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
+- [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
 
 <br>
 </td>
