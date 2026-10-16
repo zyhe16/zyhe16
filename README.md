@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, October 15, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, October 16, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.7°C - ☁️ Overcast
+17.3°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2008**: The Dow Jones Industrial Average closes down 733.08 points, or 7.87%, the second worst percentage drop in the Dow's history.
-- **1991**: The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.
-- **1987**: Aero Trasporti Italiani Flight 460 crashes near Conca di Crezzo, Italy, killing all 37 people on board.
+- **1996**: Eighty-four football fans die and 180 are injured in a massive crush at a match in Guatemala City.
+- **1995**: The Million Man March takes place in Washington, D.C. About 837,000 attend.
+- **1978**: Cardinal Karol Wojtyła is elected to the papacy as Pope John Paul II, he becomes the first non-Italian pontiff since 1523.
 
 <br>
 
 **💬 Quote**<br>
-> "Do the hard jobs first. The easy jobs will take care of themselves."<br>
-> — **Dale Carnegie**
+> "When you're the only sane person, you look like the only insane person."<br>
+> — **Criss Jami**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What's the best part about TCP jokes?*<br>
-**I get to keep telling them until you get them.**
+*How do you generate a random string?*<br>
+**Put a Windows user in front of Vim and tell them to exit.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Many cats love having their forehead gently stroked.*
+*The Egyptian Mau is probably the oldest breed of cat. In fact, the breed is so ancient that its name is the Egyptian word for “cat.”*
 
 <br>
 
 **📰 Daily Tech News**
-- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14)
-- [Tiny Little Office](https://tinylittleoffice.com/)
-- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b)
-- [Passkeys are not a trap](https://scotthelme.co.uk/passkeys-are-not-a-trap/)
-- [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
-- [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
+- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
+- [Neural networks are clean](https://already-clean.goodfire.com/)
+- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
+- [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
+- [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: NASA / APOD
+> Source: Phil Hart
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
