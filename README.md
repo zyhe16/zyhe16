@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, October 16, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, October 17, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-17.3°C - ☁️ Overcast
+12.2°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **1996**: Eighty-four football fans die and 180 are injured in a massive crush at a match in Guatemala City.
-- **1995**: The Million Man March takes place in Washington, D.C. About 837,000 attend.
-- **1978**: Cardinal Karol Wojtyła is elected to the papacy as Pope John Paul II, he becomes the first non-Italian pontiff since 1523.
+- **2018**: A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.
+- **1992**: Having gone to the wrong house, Japanese student Yoshihiro Hattori is killed by the homeowner in Baton Rouge, Louisiana.
+- **1989**: The 6.9 Mw Loma Prieta earthquake shakes the San Francisco Bay Area and the Central Coast, killing 63.
 
 <br>
 
 **💬 Quote**<br>
-> "When you're the only sane person, you look like the only insane person."<br>
-> — **Criss Jami**
+> "Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."<br>
+> — **Kabir**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you generate a random string?*<br>
-**Put a Windows user in front of Vim and tell them to exit.**
+*What do you get when you cross a React developer with a mathematician?*<br>
+**A function component.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The Egyptian Mau is probably the oldest breed of cat. In fact, the breed is so ancient that its name is the Egyptian word for “cat.”*
+*Florence Nightingale owned more than 60 cats in her lifetime.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-- [Neural networks are clean](https://already-clean.goodfire.com/)
-- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-- [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge)
-- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
-- [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/)
-- [AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware](https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
+- [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)
+- [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
+- [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: Phil Hart
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
