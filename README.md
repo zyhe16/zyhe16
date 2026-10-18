@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, October 17, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, October 18, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-12.2°C - 🌧️ Drizzle
+7.4°C - ⛅ Partly cloudy
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.
-- **1992**: Having gone to the wrong house, Japanese student Yoshihiro Hattori is killed by the homeowner in Baton Rouge, Louisiana.
-- **1989**: The 6.9 Mw Loma Prieta earthquake shakes the San Francisco Bay Area and the Central Coast, killing 63.
+- **1991**: The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.
+- **1963**: Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.
+- **1954**: Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.
 
 <br>
 
 **💬 Quote**<br>
-> "Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."<br>
-> — **Kabir**
+> "The one who boasts does so only out of a feeling of inferiority."<br>
+> — **Alfred Adler**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you get when you cross a React developer with a mathematician?*<br>
-**A function component.**
+*What goes after USA?*<br>
+**USB.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Florence Nightingale owned more than 60 cats in her lifetime.*
+*A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Tesla Roadster](https://www.tesla.com/roadster)
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
-- [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-- [Waymo in Toronto](https://waymo.com/blog/2026/10/waymo-in-toronto/)
-- [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear)
-- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
-- [Wireless magnetic millirobots that deliver medicine inside the beating heart](https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/)
+- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
+- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
+- [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
+- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
+- [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
+- [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
 
 <br>
 </td>
