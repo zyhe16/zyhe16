@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, October 18, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, October 19, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.4°C - ⛅ Partly cloudy
+10.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1991**: The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.
-- **1963**: Félicette, a black and white female Parisian stray cat, becomes the first cat launched into space.
-- **1954**: Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.
+- **1988**: The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.
+- **1987**: The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.
+- **1986**: The president of Mozambique and a prominent leader of FRELIMO, along with 33 others, die when their aircraft crashes into the Lebombo Mountains.
 
 <br>
 
 **💬 Quote**<br>
-> "The one who boasts does so only out of a feeling of inferiority."<br>
-> — **Alfred Adler**
+> "Never argue with stupid people, they will drag you down to their level and then beat you with experience."<br>
+> — **Mark Twain**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What goes after USA?*<br>
-**USB.**
+*What’s the object-oriented way to become wealthy?*<br>
+**Inheritance.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through.*
+*Cats walk on their toes.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
-- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
-- [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
-- [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
-- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
-- [Types of types: Haskell's Kind system](https://thunk.blog/posts/types-of-types-haskell-kind-system/)
-- [Making chicken transparent using Dorito dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
+- [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
+- [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
+- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
