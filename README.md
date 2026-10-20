@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, October 19, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, October 20, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.7°C - ☁️ Overcast
+8.4°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1988**: The British government imposes a broadcasting ban on television and radio interviews with members of Sinn Féin and eleven Irish republican and Ulster loyalist paramilitary groups.
-- **1987**: The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.
-- **1986**: The president of Mozambique and a prominent leader of FRELIMO, along with 33 others, die when their aircraft crashes into the Lebombo Mountains.
+- **2022**: Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister (49 days).
+- **2002**: Top Gear, the revived popular British TV motoring magazine, premieres on BBC.
+- **1977**: A plane carrying the rock band Lynyrd Skynyrd crashes in woodland in Mississippi, United States. Six people, including three band members, are killed.
 
 <br>
 
 **💬 Quote**<br>
-> "Never argue with stupid people, they will drag you down to their level and then beat you with experience."<br>
-> — **Mark Twain**
+> "What lies behind us and what lies before us are tiny matters compared to what lies within us."<br>
+> — **Ralph Waldo Emerson**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What’s the object-oriented way to become wealthy?*<br>
-**Inheritance.**
+*Why did the programmer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats walk on their toes.*
+*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-- [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-- [Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky](https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky)
-- [Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)
+- [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
+- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
+- [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
+- [One Hash Bloom Filters](https://calabro.io/ohbf)
+- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: NASA / APOD
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
