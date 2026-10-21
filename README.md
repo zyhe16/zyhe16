@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, October 20, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, October 21, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.4°C - ☁️ Overcast
+11.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: Liz Truss steps down as British Prime Minister and leader of the Conservative Party amid the country's political crisis, serving for the least time of any British Prime Minister (49 days).
-- **2002**: Top Gear, the revived popular British TV motoring magazine, premieres on BBC.
-- **1977**: A plane carrying the rock band Lynyrd Skynyrd crashes in woodland in Mississippi, United States. Six people, including three band members, are killed.
+- **2003**: Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
+- **1994**: In Seoul, South Korea, 32 people are killed when a span of the Seongsu Bridge collapses.
+- **1989**: In Honduras, 131 people are killed when a Boeing 727 crashes on approach to Toncontín International Airport near the nation's capital Tegucigalpa.
 
 <br>
 
 **💬 Quote**<br>
-> "What lies behind us and what lies before us are tiny matters compared to what lies within us."<br>
-> — **Ralph Waldo Emerson**
+> "Don't let making a living prevent you from making a life."<br>
+> — **John Wooden**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer quit his job?*<br>
-**Because he didn't get arrays.**
+*Why did the functions stop calling each other?*<br>
+**Because they had constant arguments.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
+*Cats can jump up to 7 times their tail length.*
 
 <br>
 
 **📰 Daily Tech News**
-- [France's Supermarket Fridges Were Vulnerable Online for Months](https://ipinfo.io/blog/france-fridges-hack)
-- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
-- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
-- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)
-- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963)
-- [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0)
-- [One Hash Bloom Filters](https://calabro.io/ohbf)
-- [Android apps running native on macOS](https://github.com/kksimp/Mac.apk)
+- [SimCity, but with Permits](https://permit.petercai.com/)
+- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
+- [What shall I teach my son?](https://stevekrouse.com/ends)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
