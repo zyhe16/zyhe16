@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, October 21, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, October 22, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.7°C - ☁️ Overcast
+7.9°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery.
-- **1994**: In Seoul, South Korea, 32 people are killed when a span of the Seongsu Bridge collapses.
-- **1989**: In Honduras, 131 people are killed when a Boeing 727 crashes on approach to Toncontín International Airport near the nation's capital Tegucigalpa.
+- **2015**: Anton Lundin Pettersson attacks a school in Trollhättan, killing three people and injuring two others.
+- **2014**: Michael Zehaf-Bibeau attacks the Parliament of Canada, killing a soldier and injuring three other people.
+- **1997**: Danish fugitive Steen Christensen kills two police officers, Chief Constable Eero Holsti and Senior Constable Antero Palo, in Ullanlinna, Helsinki, Finland during his prison escape.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't let making a living prevent you from making a life."<br>
-> — **John Wooden**
+> "We love the things we love for what they are."<br>
+> — **Robert Frost**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the functions stop calling each other?*<br>
-**Because they had constant arguments.**
+*Lady: How do I spread love in this cruel world?*<br>
+**Random Dude: [...💘]**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats can jump up to 7 times their tail length.*
+*Kittens remain with their mother till the age of 9 weeks.*
 
 <br>
 
 **📰 Daily Tech News**
-- [SimCity, but with Permits](https://permit.petercai.com/)
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/)
-- [What shall I teach my son?](https://stevekrouse.com/ends)
-- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
-- [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md)
+- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
+- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
+- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+- [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: NASA / APOD
+> Source: Nuits sacrees
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
