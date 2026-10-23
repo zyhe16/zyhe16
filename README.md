@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, October 22, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, October 23, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.9°C - ☀️ Clear sky
+10.6°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2015**: Anton Lundin Pettersson attacks a school in Trollhättan, killing three people and injuring two others.
-- **2014**: Michael Zehaf-Bibeau attacks the Parliament of Canada, killing a soldier and injuring three other people.
-- **1997**: Danish fugitive Steen Christensen kills two police officers, Chief Constable Eero Holsti and Senior Constable Antero Palo, in Ullanlinna, Helsinki, Finland during his prison escape.
+- **2011**: The Libyan National Transitional Council deems the Libyan Civil War over.
+- **2007**: Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.
+- **1995**: Yolanda Saldívar is found guilty of first-degree murder in the shooting death of popular Latin singer Selena.
 
 <br>
 
 **💬 Quote**<br>
-> "We love the things we love for what they are."<br>
-> — **Robert Frost**
+> "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."<br>
+> — **Amelia Earhart**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Lady: How do I spread love in this cruel world?*<br>
-**Random Dude: [...💘]**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Kittens remain with their mother till the age of 9 weeks.*
+*Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-- [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
-- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html)
-- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
-- [No More Icons in Every Menu by Default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
+- [Docker Is Weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+- [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
+- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
+- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
+- [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: Nuits sacrees
+> Source: NASA / APOD
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
