@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, October 23, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, October 24, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.6°C - 🌧️ Drizzle
+8.7°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2011**: The Libyan National Transitional Council deems the Libyan Civil War over.
-- **2007**: Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.
-- **1995**: Yolanda Saldívar is found guilty of first-degree murder in the shooting death of popular Latin singer Selena.
+- **2005**: Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 26 indirect fatalities and causing $20.6B USD in damage.
+- **2003**: Concorde makes its last commercial flight.
+- **1986**: Nezar Hindawi is sentenced to 45 years in prison, the longest sentence handed down by a British court, for the attempted bombing of an El Al flight at Heathrow Airport.
 
 <br>
 
 **💬 Quote**<br>
-> "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."<br>
-> — **Amelia Earhart**
+> "When you want something in life, you just gotta reach out and grab it."<br>
+> — **Christopher McCandless**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*Why did the developer quit his job?*<br>
+**Because he didn't get arrays.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have individual preferences for scratching surfaces and angles. Some are horizontal scratchers while others exercise their claws vertically.*
+*Smuggling a cat out of ancient Egypt was punishable by death. Phoenician traders eventually succeeded in smuggling felines, which they sold to rich people in Athens and other important cities.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-- [Docker Is Weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
-- [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html)
-- [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans)
-- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
-- [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+- [CVE Tracker](https://cve.0xosprey.com/)
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
+- [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
 
 <br>
 </td>
