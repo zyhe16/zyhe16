@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, October 24, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, October 25, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.7°C - 🌧️ Drizzle
+10.8°C - 🌧️ Rain
 
 <br>
 
 **💥 On This Day**<br>
-- **2005**: Hurricane Wilma makes landfall in Florida, resulting in 35 direct and 26 indirect fatalities and causing $20.6B USD in damage.
-- **2003**: Concorde makes its last commercial flight.
-- **1986**: Nezar Hindawi is sentenced to 45 years in prison, the longest sentence handed down by a British court, for the attempted bombing of an El Al flight at Heathrow Airport.
+- **2023**: A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured.
+- **1999**: A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
+- **1989**: The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.
 
 <br>
 
 **💬 Quote**<br>
-> "When you want something in life, you just gotta reach out and grab it."<br>
-> — **Christopher McCandless**
+> "Find your Light; They can't love you if they can't see you."<br>
+> — **Bette Midler**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the developer quit his job?*<br>
-**Because he didn't get arrays.**
+*Why was the designer always cold?*<br>
+**Because they always used too much ice-olation.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Smuggling a cat out of ancient Egypt was punishable by death. Phoenician traders eventually succeeded in smuggling felines, which they sold to rich people in Athens and other important cities.*
+*Both humans and cats have identical regions in the brain responsible for emotion.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-- [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
-- [CVE Tracker](https://cve.0xosprey.com/)
-- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
-- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-- [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/)
+- [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [The Goose Programming Language](https://aardappel.github.io/goose/)
+- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
+- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
+- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
+- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
+- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
 
 <br>
 </td>
