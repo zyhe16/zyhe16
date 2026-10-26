@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, October 25, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, October 26, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.8°C - 🌧️ Rain
+8.9°C - 🌤️ Mainly clear
 
 <br>
 
 **💥 On This Day**<br>
-- **2023**: A mass shooting occurs in two locations in Lewiston, Maine. 18 people are killed and 13 more injured.
-- **1999**: A Learjet 35 crashes in Mina near Aberdeen, South Dakota, killing all six people on board, including PGA golfer Payne Stewart and golf course designer Bruce Borland.
-- **1989**: The first leg of the 1989 Supertaça Cândido de Oliveira is held at the Estádio da Luz in Lisbon, Portugal.
+- **2003**: The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
+- **1999**: The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
+- **1989**: China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
 
 <br>
 
 **💬 Quote**<br>
-> "Find your Light; They can't love you if they can't see you."<br>
-> — **Bette Midler**
+> "If you can see it in your mind, you can hold it in your mind."<br>
+> — **Steve Harvey**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why was the designer always cold?*<br>
-**Because they always used too much ice-olation.**
+*There are 10 types of people in this world...*<br>
+**Those who understand binary and those who don't**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Both humans and cats have identical regions in the brain responsible for emotion.*
+*The cat appears to be the only domestic companion animal not mentioned in the Bible.*
 
 <br>
 
 **📰 Daily Tech News**
-- [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class)
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
-- [The Goose Programming Language](https://aardappel.github.io/goose/)
-- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
-- [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch)
-- [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/)
-- [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt)
-- [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
+- [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+- [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
+- [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
+- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
+- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
+- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
 
 <br>
 </td>
