@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, October 26, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, October 27, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.9°C - 🌤️ Mainly clear
+11.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: The Cedar Fire, the third-largest wildfire in California history, kills 15 people, consumes 250,000 acres (1,000 km2), and destroys 2,200 homes around San Diego.
-- **1999**: The United Kingdom's House of Lords votes to end the right of most hereditary peers to vote in Britain's upper chamber of Parliament.
-- **1989**: China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.
+- **2018**: A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
+- **2018**: Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
+- **1981**: Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
 
 <br>
 
 **💬 Quote**<br>
-> "If you can see it in your mind, you can hold it in your mind."<br>
-> — **Steve Harvey**
+> "Only the hand that erases can write the true thing."<br>
+> — **Meister Eckhart**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*There are 10 types of people in this world...*<br>
-**Those who understand binary and those who don't**
+*Why do Java programmers wear glasses?*<br>
+**Because they don't C#.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The cat appears to be the only domestic companion animal not mentioned in the Bible.*
+*The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
-- [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html)
-- [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
-- [Lula wins election after final votes tallied](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
-- [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html)
-- [What goes into making an animated film?](https://www.disneyanimation.com/process/)
-- [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
+- [Announcing three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
+- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+- [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
+- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
 
 <br>
 </td>
