@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, October 27, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, October 28, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-11.6°C - ☁️ Overcast
+10.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2018**: A gunman opens fire on a Pittsburgh synagogue killing eleven and injuring six, including four police officers.
-- **2018**: Leicester City F.C. owner Vichai Srivaddhanaprabha dies in a helicopter crash along with four others after a Premier League match against West Ham United at the King Power Stadium in Leicester, England.
-- **1981**: Cold War: The Soviet submarine S-363 runs aground on the east coast of Sweden.
+- **2013**: Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
+- **2009**: The 28 October 2009 Peshawar bombing kills 117 and wounds 213.
+- **2007**: Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.
 
 <br>
 
 **💬 Quote**<br>
-> "Only the hand that erases can write the true thing."<br>
-> — **Meister Eckhart**
+> "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."<br>
+> — **Herbert Hoover**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why do Java programmers wear glasses?*<br>
-**Because they don't C#.**
+*Knock-knock.*<br>
+**A race condition. Who is there?**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The life expectancy of cats has nearly doubled since 1930 - from 8 to 16 years.*
+*A cats field of vision is about 185 degrees.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Announcing three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
-- [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)
-- [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
-- [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219)
-- [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
+- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
+- [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)
+- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
 
 <br>
 </td>
