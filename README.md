@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, October 28, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, October 29, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.2°C - ☀️ Clear sky
+10.9°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: Five people are killed and 38 are injured after a car crashes into barriers at Tiananmen Square in China.
-- **2009**: The 28 October 2009 Peshawar bombing kills 117 and wounds 213.
-- **2007**: Cristina Fernández de Kirchner becomes the first directly elected female President of Argentina.
+- **2014**: A mud slide; the 2014 Badulla landslide, in south-central Sri Lanka, kills at least 16 people, and leaves hundreds of people missing.
+- **2005**: Bombings in Delhi, India kill 67 and injure over 200 people.
+- **2004**: The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election.
 
 <br>
 
 **💬 Quote**<br>
-> "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."<br>
-> — **Herbert Hoover**
+> "When you're curious, you find lots of interesting things to do."<br>
+> — **Walt Disney**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Knock-knock.*<br>
-**A race condition. Who is there?**
+*Hey, wanna hear a joke?*<br>
+**Parsing HTML with regex.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A cats field of vision is about 185 degrees.*
+*The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).*
 
 <br>
 
 **📰 Daily Tech News**
-- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-- [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)
-- [Reviewers rarely talk about reliability. Owners bring it up twice as often](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
-- [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data)
-- [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/)
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
+- [Get Ready for Touch on Mac](https://developer.apple.com/touch-on-mac/)
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: NASA / APOD
+> Source: Panther Observatory
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
