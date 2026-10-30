@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, October 29, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, October 30, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-10.9°C - ☁️ Overcast
+8.2°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2014**: A mud slide; the 2014 Badulla landslide, in south-central Sri Lanka, kills at least 16 people, and leaves hundreds of people missing.
-- **2005**: Bombings in Delhi, India kill 67 and injure over 200 people.
-- **2004**: The Arabic-language news network Al Jazeera broadcasts an excerpt from a 2004 Osama bin Laden video in which the terrorist leader first admits direct responsibility for the September 11, 2001 attacks and references the 2004 U.S. presidential election.
+- **2023**: First rescue of a prisoner during the Israeli invasion of Gaza.
+- **2014**: Four people are killed when a Beechcraft Super King Air crashes at Wichita Dwight D. Eisenhower National Airport in Wichita, Kansas.
+- **2005**: The rebuilt Dresden Frauenkirche (destroyed in the firebombing of Dresden during World War II) is reconsecrated after a thirteen-year rebuilding project.
 
 <br>
 
 **💬 Quote**<br>
-> "When you're curious, you find lots of interesting things to do."<br>
-> — **Walt Disney**
+> "Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."<br>
+> — **Celestine Chua**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Hey, wanna hear a joke?*<br>
-**Parsing HTML with regex.**
+*To understand what recursion is...*<br>
+**You must first understand what recursion is**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The most traveled cat is Hamlet, who escaped from his carrier while on a flight. He hid for seven weeks behind a panel on the airplane. By the time he was discovered, he had traveled nearly 373,000 miles (600,000 km).*
+*A female cat is called a queen or a molly.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-- [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1)
-- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
-- [A Health Update](https://furbo.org/2026/10/28/a-health-update/)
-- [Get Ready for Touch on Mac](https://developer.apple.com/touch-on-mac/)
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
-- [The case of the 9 bit AES key](https://v12.sh/blog/the-case-of-the-9bit-aes-key)
+- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
+- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
+- [El Niño Is Flooding California's Coasts with the Highest Tides to Come](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574)
+- [A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)
+- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+- [A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/)
+- [Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: Panther Observatory
+> Source: James Garlick
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
