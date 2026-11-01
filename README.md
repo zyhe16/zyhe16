@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, October 31, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, November 01, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.2°C - ⛅ Partly cloudy
+7.7°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: Berlin Brandenburg Airport opens its doors after nearly 10 years of delays due to construction issues and project corruption.
-- **1998**: Iraq disarmament crisis begins: Iraq announces it would no longer cooperate with United Nations weapons inspectors.
-- **1984**: Indian Prime Minister Indira Gandhi is assassinated by two Sikh security guards. Riots break out in New Delhi and other cities and around 3,000 Sikhs are killed.
+- **2024**: A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring 3.
+- **1991**: President of the Chechen Republic Dzhokhar Dudayev declares sovereignty of the Chechen Republic of Ichkeria from the Russian Federation.
+- **1979**: In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
 
 <br>
 
 **💬 Quote**<br>
-> "There is no limit to the amount of good you can do if you don't care who gets the credit."<br>
-> — **Ronald Reagan**
+> "Today you are you, that is truer than true. There is no one alive who is you-er than you."<br>
+> — **Dr. Seuss**
 
 <br>
 </td>
@@ -33,36 +33,31 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What do you call a computer mouse that swears a lot?*<br>
-**A cursor!**
+*Why dot net developers don't wear glasses?*<br>
+**Because they see sharp.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have the largest eyes of any mammal.*
+*The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.*
 
 <br>
 
 **📰 Daily Tech News**
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
-- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
-- [Northflank Breached](https://status.northflank.com)
-- [Infinite Mac: BeOS](https://blog.persistent.info/2026/10/infinite-mac-beos.html)
-- [Jules Verne's Lost Novel](https://blue-continuum.com/verne-paris)
-- [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)
+- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+- [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
+- [Altoids Project](https://uvdn7.github.io/altoids-project/)
+- [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
+- [It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: NASA / APOD
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
