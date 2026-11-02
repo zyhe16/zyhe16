@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, November 01, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, November 02, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.7°C - ☁️ Overcast
+9.3°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: A concrete canopy collapses at the Novi Sad railway station, killing 16 people and injuring 3.
-- **1991**: President of the Chechen Republic Dzhokhar Dudayev declares sovereignty of the Chechen Republic of Ichkeria from the Russian Federation.
-- **1979**: In Bolivia, Colonel Alberto Natusch executes a bloody coup d'état against the constitutional government of Wálter Guevara.
+- **2000**: Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
+- **1999**: Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven.
+- **1973**: Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
 
 <br>
 
 **💬 Quote**<br>
-> "Today you are you, that is truer than true. There is no one alive who is you-er than you."<br>
-> — **Dr. Seuss**
+> "Do not ignore the passion that burns in you. Spend time to discover your gift."<br>
+> — **Steve Harvey**
 
 <br>
 </td>
@@ -33,31 +33,36 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why dot net developers don't wear glasses?*<br>
-**Because they see sharp.**
+*What did the Java code say to the C code?*<br>
+**You've got no class.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*The heaviest cat on record is Himmy, a Tabby from Queensland, Australia. He weighed nearly 47 pounds (21 kg). He died at the age of 10.*
+*Researchers believe the word “tabby” comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city.*
 
 <br>
 
 **📰 Daily Tech News**
+- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
+- [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
-- [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
-- [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
-- [When electric cars were for women](https://spectrum.ieee.org/early-electric-vehicles)
-- [Altoids Project](https://uvdn7.github.io/altoids-project/)
-- [First response from the Project Suncatcher prototype satellite](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/)
-- [It's the memory latency, stupid](https://pivotlake.io/blog/its-the-memory-latency-stupid/)
+- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
+- [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
+- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
+- [Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
