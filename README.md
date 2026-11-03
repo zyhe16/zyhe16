@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, November 02, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, November 03, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.3°C - ☁️ Overcast
+7.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2000**: Expedition 1 arrived at the International Space Station for the first long-duration stay onboard. From this day to present, a continuous human presence in space on the station remains uninterrupted.
-- **1999**: Honolulu shootings: In the worst mass murder in the history of Hawaii, a gunman shoots at eight people in his workplace, killing seven.
-- **1973**: Aeroflot Flight 19 is hijacked and diverted to Vnukovo International Airport, where the aircraft is stormed by authorities.
+- **1986**: The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States.
+- **1986**: Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon.
+- **1978**: Dominica gains its independence from the United Kingdom.
 
 <br>
 
 **💬 Quote**<br>
-> "Do not ignore the passion that burns in you. Spend time to discover your gift."<br>
-> — **Steve Harvey**
+> "Courage is found in unlikely places."<br>
+> — **J.R.R. Tolkien**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*What did the Java code say to the C code?*<br>
-**You've got no class.**
+*How do you check if a webpage is HTML5?*<br>
+**Try it out on Internet Explorer**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Researchers believe the word “tabby” comes from Attabiyah, a neighborhood in Baghdad, Iraq. Tabbies got their name because their striped coats resembled the famous wavy patterns in the silk produced in this city.*
+*A form of AIDS exists in cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-- [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
-- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-- [Trigger.dev customer environment variables exposed](https://trigger.dev/blog/security-incident-nov-2026)
-- [Mystery of 60-Second Fluctuations in Power Grids Solved](https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved)
-- [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)
-- [Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib)
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
+- [European RISC-V Industrial Computing Initiative](https://erici.eu)
+- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
+- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+- [Resisting Cognitive Surrender](https://knlb.dev/essays/surrender)
+- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
 
 <br>
 </td>
