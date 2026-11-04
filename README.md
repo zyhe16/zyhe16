@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, November 03, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, November 04, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-7.0°C - ☁️ Overcast
+4.4°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **1986**: The Compact of Free Association becomes law, granting the Federated States of Micronesia and the Marshall Islands independence from the United States.
-- **1986**: Iran–Contra affair: The Lebanese magazine Ash-Shiraa reports that the United States has been secretly selling weapons to Iran in order to secure the release of seven American hostages held by pro-Iranian groups in Lebanon.
-- **1978**: Dominica gains its independence from the United Kingdom.
+- **2008**: Barack Obama becomes the first person of biracial or African-American descent to be elected as President of the United States.
+- **1979**: Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages.
+- **1970**: Vietnam War: The United States turns over control of the air base at Bình Thủy in the Mekong Delta to South Vietnam.
 
 <br>
 
 **💬 Quote**<br>
-> "Courage is found in unlikely places."<br>
-> — **J.R.R. Tolkien**
+> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."<br>
+> — **Robert Greene**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*How do you check if a webpage is HTML5?*<br>
-**Try it out on Internet Explorer**
+*An IPv6 packet is walking out of the house.*<br>
+**He goes nowhere.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*A form of AIDS exists in cats.*
+*Approximately 24 cat skins can make a coat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-- [DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-- [Show HN: Hacker Times, a New York Times-inspired version of Hacker News](https://hackertimes.ca/)
-- [European RISC-V Industrial Computing Initiative](https://erici.eu)
-- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai/)
-- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
-- [Resisting Cognitive Surrender](https://knlb.dev/essays/surrender)
-- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
+- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/)
+- [Giant canyon on Mars is still tectonically active](https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today)
+- [Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)
 
 <br>
 </td>
