@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, November 05, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, November 06, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-3.7°C - ☀️ Clear sky
+1.4°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2024**: Donald Trump becomes the first president of the United States to be elected to a non-consecutive second term in 132 years, since Grover Cleveland won the 1892 election.
-- **2021**: The Astroworld Festival crowd crush results in 10 deaths and 25 people being hospitalized
-- **1991**: Tropical Storm Thelma causes flash floods in the Philippine city of Ormoc, killing more than 4,900 people.
+- **2025**: Canadian ostrich cull: The Government of Canada kills 314 ostriches after H5N8 is detected in an ostrich farm in Edgewood, BC.
+- **1995**: Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.
+- **1963**: Nguyễn Ngọc Thơ is appointed to head the South Vietnamese government by General Dương Văn Minh's junta, five days after the latter deposed and assassinated President Ngô Đình Diệm.
 
 <br>
 
 **💬 Quote**<br>
-> "Even when a friend does something you do not like, he continues to be your friend."<br>
-> — **Genghis Khan**
+> "Innovation distinguishes between a leader and a follower."<br>
+> — **Steve Jobs**
 
 <br>
 </td>
@@ -33,25 +33,25 @@
 <br>
 
 **🤣 Daily Joke**<br>
-*Why did the programmer's wife leave him?*<br>
-**He didn't know how to commit.**
+*Where do programmers like to hangout?*<br>
+**The Foo Bar.**
 
 <br>
 
 **🧠 Random Fact**<br>
-*Cats take between 20-40 breaths per minute.*
+*Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-- [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
-- [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
-- [Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)
-- [Spreading Liquid with Three.js](https://mofu-dev.com/en/blog/fluid-foundation/)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+- [sshole](https://sshhole.com)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [Pwn.college](https://pwn.college/)
+- [Nvidia Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke)
+- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/)
+- [The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)
+- [From Linux to Wikipedia: How Volunteers Build the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 
 <br>
 </td>
