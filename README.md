@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, November 08, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, November 09, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-6.5°C - 🌧️ Rain
+2.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: The Louvre Abu Dhabi was inaugurated by the French president Emmanuel Macron and then-crown prince of Abu Dhabi Mohamed bin Zayed Al Nahyan.
-- **2013**: Typhoon Haiyan, one of the strongest tropical cyclones ever recorded, strikes the Visayas region of the Philippines; the storm left at least 6,340 people dead with over 1,000 still missing, and caused $2.86 billion (2013 USD; equivalent to $3.95 billion in 2025) in damage.
-- **1987**: Remembrance Day bombing: A Provisional IRA bomb explodes in Enniskillen, Northern Ireland during a ceremony honouring those who had died in wars involving British forces. Twelve people are killed and sixty-three wounded.
+- **2000**: Uttarakhand officially becomes the 27th state of India, formed from thirteen districts of northwestern Uttar Pradesh.
+- **1998**: A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.
+- **1994**: The chemical element darmstadtium is discovered.
 
 <br>
 
 **💬 Quote**<br>
-> "If you want to know what God thinks about money just look at the people He gives it to."<br>
-> — **Alexander Pope**
+> "I skate to where the puck is going to be, not where it has been."<br>
+> — **Wayne Gretzky**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Like birds, cats have a homing ability that uses its biological clock, the angle of the sun, and the Earth's magnetic field. A cat taken far from its home can return to it. But if a cat's owners move far from its home, the cat can't find them.*
+*A cats field of vision is about 185 degrees.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
-- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-- [ZapFast: A fast, native WhatsApp client in Rust and egui](https://github.com/crmne/zapfast)
-- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
-- [Uranium cubes reveal why the German nuclear project failed](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+- [Apple capped engineers at a $200 daily AI budget](https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1)
+- [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
+- [Declarative Dragging](https://declarative-dragging.github.io/)
+- [I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
 
 <br>
 </td>
