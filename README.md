@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, November 10, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, November 11, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.1°C - ☀️ Clear sky
+4.7°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2006**: The National Museum of the Marine Corps in Quantico, Virginia is opened and dedicated by U.S. President George W. Bush, who announces that Marine Corporal Jason Dunham will posthumously receive the Medal of Honor.
-- **2001**: The Taliban held city of Mazar-i-Sharif falls to the Northern Alliance under generals Abdul Rashid Dostum and Atta Muhammad Nur.
-- **1997**: WorldCom and MCI Communications announce a $37 billion merger (the largest merger in US history at the time).
+- **2020**: Typhoon Vamco makes landfall in Luzon and several offshore islands, killing 67 people. The storm causes the worst floods in the region since Typhoon Ketsana in 2009.
+- **2001**: Journalists Pierre Billaud, Johanne Sutton and Volker Handloik are killed in Afghanistan during an attack on the convoy they are traveling in.
+- **1992**: The General Synod of the Church of England votes to allow women to become priests.
 
 <br>
 
 **💬 Quote**<br>
-> "When angry count to ten before you speak. If very angry, count to one hundred."<br>
-> — **Thomas Jefferson**
+> "Better to live until you die."<br>
+> — **Dan Millman**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*In one stride, a cheetah can cover 23 to 26 feet (7 to 8 meters).*
+*The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
-- [Your TV can see through walls](https://maurycyz.com/projects/fading/)
-- [Mathematicians Are Like Luddites](https://alok.blog/luddite/)
-- [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
-- [E-means: Outperforming k-means in one-tenth the epochs](https://e-means.github.io/)
-- [Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system](https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy)
+- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
+- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
+- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
+- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: Nicolas Lefaudeux
+> Source: NASA / APOD
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
