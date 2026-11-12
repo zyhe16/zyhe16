@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, November 11, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, November 12, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-4.7°C - 🌧️ Drizzle
+4.1°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: Typhoon Vamco makes landfall in Luzon and several offshore islands, killing 67 people. The storm causes the worst floods in the region since Typhoon Ketsana in 2009.
-- **2001**: Journalists Pierre Billaud, Johanne Sutton and Volker Handloik are killed in Afghanistan during an attack on the convoy they are traveling in.
-- **1992**: The General Synod of the Church of England votes to allow women to become priests.
+- **2003**: Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.
+- **2001**: In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground.
+- **1997**: Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.
 
 <br>
 
 **💬 Quote**<br>
-> "Better to live until you die."<br>
-> — **Dan Millman**
+> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."<br>
+> — **Mark Twain**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*The Cat Fanciers Association (CFA) recognizes 44 breeds of cats.*
+*Most cats adore sardines.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- [Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)
-- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
-- [A great old-timey game-programming hack (2013)](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
-- [To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
-- [Six Math Essentials](https://teorth.github.io/tao-web/six-math-essentials.html)
+- [AWS emulator](https://github.com/aws/aws-emulator)
+- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
+- [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)
+- [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
 
 <br>
 </td>
