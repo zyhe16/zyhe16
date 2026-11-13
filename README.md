@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, November 12, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, November 13, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-4.1°C - ☁️ Overcast
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **2003**: Shanghai Transrapid sets a new world speed record of 501 kilometres per hour (311 mph) for commercial railway systems, which remains the fastest for unmodified commercial rail vehicles.
-- **2001**: In New York City, American Airlines Flight 587, an Airbus A300 en route to the Dominican Republic, crashes minutes after takeoff from John F. Kennedy International Airport, killing all 260 on board and five on the ground.
-- **1997**: Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.
+- **2015**: Islamic State operatives carry out a series of coordinated terrorist attacks in Paris, including suicide bombings, mass shootings and a hostage crisis. The terrorists kill 130 people, making it the deadliest attack in France since the Second World War.
+- **1990**: In Aramoana, New Zealand, David Gray shoots dead 13 people in a massacre before being tracked down and killed by police the next day.
+- **1989**: Hans-Adam II, the present Prince of Liechtenstein, begins his reign on the death of his father.
 
 <br>
 
 **💬 Quote**<br>
-> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."<br>
-> — **Mark Twain**
+> "When you are tough on yourself, life is going to be infinitely easier on you."<br>
+> — **Zig Ziglar**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Most cats adore sardines.*
+*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
 
 <br>
 
 **📰 Daily Tech News**
-- [AWS emulator](https://github.com/aws/aws-emulator)
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
-- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
-- [Lock Your GitHub Actions](https://hugovk.dev/blog/2026/lock-github-actions/)
-- [Nvidia prepares to fire CEO Jensen Huang, WSJ reports](https://twitter.com/watcherguru/status/2120645607866188008)
-- [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)
-- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/)
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+- [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)
+- [Richard A. Posner has died](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
+- [Service degradation on Microsoft 365](https://status.cloud.microsoft/)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: NASA / APOD
+> Source: Gemini Obs.
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
