@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, November 14, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, November 15, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-3.2°C - ☀️ Clear sky
+1.6°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: A gunman kills four people and injures 12 others during a shooting spree across Rancho Tehama, California. He had earlier murdered his wife in their home.
-- **2003**: Astronomers discover Sedna, a distant trans-Neptunian dwarf planet.
-- **1990**: After German reunification, the Federal Republic of Germany and Poland sign a treaty confirming the Oder–Neisse line as the border between Germany and Poland.
+- **2020**: Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
+- **2010**: A fire in a high-rise apartment building in Shanghai, China kills 58 people.
+- **2006**: Al Jazeera English launches worldwide.
 
 <br>
 
 **💬 Quote**<br>
-> "It matters not what someone is born, but what they grow to be."<br>
-> — **Albus Dumbledore**
+> "The weak can never forgive. Forgiveness is the attribute of the strong."<br>
+> — **Mahatma Gandhi**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*An adult lion's roar can be heard up to five miles (eight kilometers) away.*
+*Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.*
 
 <br>
 
 **📰 Daily Tech News**
-- [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
-- [First Strike](https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html)
-- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
-- [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
-- [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/)
-- [Reverse engineering my Coway air purifier to ditch the cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
-- [Found: A protein that drives ageing without unleashing inflammation](https://www.nature.com/articles/d41586-026-03638-3)
-- [After 600 experiments, here's what I discovered about JEPA world models](https://haddyalchaer.com/jepa)
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
+- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+- [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
+- [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
+- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 
 <br>
 </td>
