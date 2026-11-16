@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, November 15, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, November 16, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.6°C - ☁️ Overcast
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **2020**: Lewis Hamilton wins the Turkish Grand Prix and secures his seventh drivers' title, equalling the all-time record held by Michael Schumacher.
-- **2010**: A fire in a high-rise apartment building in Shanghai, China kills 58 people.
-- **2006**: Al Jazeera English launches worldwide.
+- **1992**: The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
+- **1990**: Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
+- **1979**: The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.
 
 <br>
 
 **💬 Quote**<br>
-> "The weak can never forgive. Forgiveness is the attribute of the strong."<br>
-> — **Mahatma Gandhi**
+> "A tiger doesn't lose sleep over the opinion of sheep."<br>
+> — **Shahir Zag**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Cats are North America’s most popular pets: there are 73 million cats compared to 63 million dogs. Over 30% of households in North America own a cat.*
+*The Ancient Egyptian word for cat was mau, which means "to see".*
 
 <br>
 
 **📰 Daily Tech News**
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
-- [A family tree of software job titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
-- [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)
-- [Nvidia deliberately kept GPU prices high through circular financing deals](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
-- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
+- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
+- [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
+- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
+- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
+- ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
 
 <br>
 </td>
