@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Monday, November 16, 2026**
-*Monday again. Coffee is mandatory. ☕*
+### 📅 Today is **Tuesday, November 17, 2026**
+*It's barely Tuesday? Okay. 😑*
 
 <table>
 <tr>
@@ -16,15 +16,15 @@ Weather unavailable
 <br>
 
 **💥 On This Day**<br>
-- **1992**: The Hoxne Hoard is discovered by metal detectorist Eric Lawes in Hoxne, Suffolk.
-- **1990**: Pop group Milli Vanilli are stripped of their Grammy Award because the duo did not sing at all on the Girl You Know It's True album. Session musicians had provided all the vocals.
-- **1979**: The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania.
+- **2013**: A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes.
+- **2003**: Actor Arnold Schwarzenegger's tenure as the governor of California begins.
+- **1989**: Cold War: Velvet Revolution begins: In Czechoslovakia, a student demonstration in Prague is quelled by riot police. This sparks an uprising aimed at overthrowing the communist government (it succeeds on December 29).
 
 <br>
 
 **💬 Quote**<br>
-> "A tiger doesn't lose sleep over the opinion of sheep."<br>
-> — **Shahir Zag**
+> "Only put off until tomorrow what you are willing to die having left undone."<br>
+> — **Pablo Picasso**
 
 <br>
 </td>
@@ -39,19 +39,19 @@ Weather unavailable
 <br>
 
 **🧠 Random Fact**<br>
-*The Ancient Egyptian word for cat was mau, which means "to see".*
+*People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/)
-- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
-- [Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game](https://lastcomplication.com/)
-- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/)
-- [Mini.nvim Is Now on Tangled](https://tangled.org/nvim-mini.org/mini.nvim)
-- ['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)
+- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+- [BugMeNot has closed](https://www.bugmenot.com/)
+- [World's Largest Brands Infected With Malware Via Optimizely](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
+- [OpenCode Browse](https://opencode.ai/product/browse)
+- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
 
 <br>
 </td>
