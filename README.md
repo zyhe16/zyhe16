@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, November 17, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, November 18, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-Weather unavailable
+9.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2013**: A rare late-season tornado outbreak strikes the Midwest. Illinois and Indiana are most affected with tornado reports as far north as lower Michigan. In all around six dozen tornadoes touch down in approximately an 11-hour time period, including seven EF3 and two EF4 tornadoes.
-- **2003**: Actor Arnold Schwarzenegger's tenure as the governor of California begins.
-- **1989**: Cold War: Velvet Revolution begins: In Czechoslovakia, a student demonstration in Prague is quelled by riot police. This sparks an uprising aimed at overthrowing the communist government (it succeeds on December 29).
+- **1999**: At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others.
+- **1993**: In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives.
+- **1987**: King's Cross fire: In London, 31 people die in a fire at the city's busiest underground station, King's Cross St Pancras.
 
 <br>
 
 **💬 Quote**<br>
-> "Only put off until tomorrow what you are willing to die having left undone."<br>
-> — **Pablo Picasso**
+> "Every blessing ignored becomes a curse."<br>
+> — **Paulo Coelho**
 
 <br>
 </td>
@@ -39,30 +39,25 @@ Weather unavailable
 <br>
 
 **🧠 Random Fact**<br>
-*People who are allergic to cats are actually allergic to cat saliva or to cat dander. If the resident cat is bathed regularly the allergic people tolerate it better.*
+*Normal body temperature for a cat is 102 degrees F.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-- [BugMeNot has closed](https://www.bugmenot.com/)
-- [World's Largest Brands Infected With Malware Via Optimizely](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-- [How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)
-- [OpenCode Browse](https://opencode.ai/product/browse)
-- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+- [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
+- [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
+- [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: NASA / APOD
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
