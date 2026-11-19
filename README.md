@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, November 18, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, November 19, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-9.8°C - ☁️ Overcast
+8.8°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1999**: At Texas A&M University, the Aggie Bonfire collapses killing 12 students and injuring 27 others.
-- **1993**: In the United States, the North American Free Trade Agreement (NAFTA) is approved by the House of Representatives.
-- **1987**: King's Cross fire: In London, 31 people die in a fire at the city's busiest underground station, King's Cross St Pancras.
+- **2022**: A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado.
+- **1999**: Shenzhou 1: The People's Republic of China launches its first Shenzhou spacecraft.
+- **1993**: A factory fire killed 87 and injured 51 in Shenzhen, China.
 
 <br>
 
 **💬 Quote**<br>
-> "Every blessing ignored becomes a curse."<br>
-> — **Paulo Coelho**
+> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."<br>
+> — **Kamal Ravikant**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Normal body temperature for a cat is 102 degrees F.*
+*There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
-- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
-- [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)
-- [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
-- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)
-- [Phrack 73 Released](https://phrack.org/issues/73/introduction_md)
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+- [Software companies are trying to kill home computing](https://lateblt.livejournal.com/526188.html)
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+- [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b)
 
 <br>
 </td>
