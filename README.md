@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, November 19, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, November 20, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.8°C - ☁️ Overcast
+8.4°C - 🌧️ Drizzle
 
 <br>
 
 **💥 On This Day**<br>
-- **2022**: A gunman kills five and injures 17 at Club Q, a gay nightclub in Colorado Springs, Colorado.
-- **1999**: Shenzhou 1: The People's Republic of China launches its first Shenzhou spacecraft.
-- **1993**: A factory fire killed 87 and injured 51 in Shenzhen, China.
+- **2016**: Jimmie Johnson wins his seventh NASCAR Cup Series championship to tie Richard Petty and Dale Earnhardt for the most all-time.
+- **1994**: The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)
+- **1990**: Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.
 
 <br>
 
 **💬 Quote**<br>
-> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."<br>
-> — **Kamal Ravikant**
+> "All has not been said and never will be."<br>
+> — **Samuel Beckett**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*There are approximately 60,000 hairs per square inch on the back of a cat and about 120,000 per square inch on its underside.*
+*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
-- [Software companies are trying to kill home computing](https://lateblt.livejournal.com/526188.html)
-- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
-- [Multiple vulnerabilities in Regexp and String case conversion](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/)
-- [Inside Deutsche Bank](https://www.inside-db.com/)
-- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
-- [DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b)
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
+- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
+- [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
+- [RegExr: Temporarily Offline](https://regexr.com/)
+- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 
 <br>
 </td>
