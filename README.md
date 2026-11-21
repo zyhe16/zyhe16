@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, November 20, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, November 21, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-8.4°C - 🌧️ Drizzle
+2.6°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2016**: Jimmie Johnson wins his seventh NASCAR Cup Series championship to tie Richard Petty and Dale Earnhardt for the most all-time.
-- **1994**: The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)
-- **1990**: Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.
+- **2019**: Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its "unbreakable" windows shatter during demonstration.
+- **2013**: Fifty-four people are killed when the roof of a shopping center collapses in Riga, Latvia.
+- **2004**: Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed.
 
 <br>
 
 **💬 Quote**<br>
-> "All has not been said and never will be."<br>
-> — **Samuel Beckett**
+> "Don't Let Yesterday Take Up Too Much Of Today."<br>
+> — **Will Rogers**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*After humans, mountain lions have the largest range of any mammal in the Western Hemisphere.*
+*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
-- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
-- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
-- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
-- [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
-- [How to CAD Almost Anything](https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/)
-- [RegExr: Temporarily Offline](https://regexr.com/)
-- [The 98% Slot Machine: How Paid Advertising Became an Extraction Tax](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+- [Re: Riemann](https://borretti.me/article/re-riemann)
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
+- [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
+- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 
 <br>
 </td>
