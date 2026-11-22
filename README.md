@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Saturday, November 21, 2026**
-*Saturday. Do not disturb. 😴*
+### 📅 Today is **Sunday, November 22, 2026**
+*Sunday. Trying not to think about Monday. 🌅*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-2.6°C - ☀️ Clear sky
+1.1°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2019**: Tesla launches the SUV Cybertruck. A gaffe occurs during the launch event when its "unbreakable" windows shatter during demonstration.
-- **2013**: Fifty-four people are killed when the roof of a shopping center collapses in Riga, Latvia.
-- **2004**: Dominica is hit by the most destructive earthquake in its history. The northern half of the island sustains the most damage, especially the town of Portsmouth. In neighboring Guadeloupe, one person is killed.
+- **1994**: A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight.
+- **1971**: In Britain's worst mountaineering tragedy, the Cairngorm Plateau Disaster, five children and one of their leaders are found dead from exposure in the Scottish mountains.
+- **1963**: U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.
 
 <br>
 
 **💬 Quote**<br>
-> "Don't Let Yesterday Take Up Too Much Of Today."<br>
-> — **Will Rogers**
+> "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."<br>
+> — **Barack Obama**
 
 <br>
 </td>
@@ -39,25 +39,30 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Some notable people who disliked cats:  Napoleon Bonaparte, Dwight D. Eisenhower, Hitler.*
+*Ailurophile is the word cat lovers are officially called.*
 
 <br>
 
 **📰 Daily Tech News**
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
+- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
+- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
+- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+- [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
 - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
-- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
-- [Re: Riemann](https://borretti.me/article/re-riemann)
-- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)
-- [Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
-- [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
