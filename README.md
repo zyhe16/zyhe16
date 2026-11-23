@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Sunday, November 22, 2026**
-*Sunday. Trying not to think about Monday. 🌅*
+### 📅 Today is **Monday, November 23, 2026**
+*Monday again. Coffee is mandatory. ☕*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-1.1°C - ☀️ Clear sky
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **1994**: A Trans World Airlines McDonnell Douglas MD-80 and Cessna 441 Conquest II aircraft collide on the runway at St. Louis Lambert International Airport in Bridgeton, Missouri, killing two people and injuring eight.
-- **1971**: In Britain's worst mountaineering tragedy, the Cairngorm Plateau Disaster, five children and one of their leaders are found dead from exposure in the Scottish mountains.
-- **1963**: U.S. President John F. Kennedy is assassinated and Texas Governor John Connally is seriously wounded by Lee Harvey Oswald, who also kills Dallas Police officer J. D. Tippit after fleeing the scene. Vice President Lyndon B. Johnson is sworn in as the 36th President of the United States afterwards.
+- **2011**: Arab Spring: After 11 months of protests in Yemen, Yemeni president Ali Abdullah Saleh signs a deal to transfer power to the vice president, in exchange for legal immunity.
+- **2002**: Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.
+- **2001**: The Budapest Convention on Cybercrime is signed in Budapest, Hungary.
 
 <br>
 
 **💬 Quote**<br>
-> "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."<br>
-> — **Barack Obama**
+> "When there is nothing to do, do nothing."<br>
+> — **Warren Buffett**
 
 <br>
 </td>
@@ -39,30 +39,25 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Ailurophile is the word cat lovers are officially called.*
+*Sir Isaac Newton is credited with creating the concept for the pet door that many cats use today to travel outdoors.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-- [PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors](https://github.com/sebaandrada-cell/PcapAnalyzer)
-- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
-- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-- [Getting the mind to steer the body to steer you](https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body)
-- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- [Nespresso's project to reduce grams of coffee per capsule](https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527)
+- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20)
+- [The Usefulness of Useless Knowledge [pdf] (1939)](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf)
+- [A miniature San Francisco with live buses, planes and boats](https://smallsf.com/)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: NASA / APOD
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
