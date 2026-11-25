@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Tuesday, November 24, 2026**
-*It's barely Tuesday? Okay. 😑*
+### 📅 Today is **Wednesday, November 25, 2026**
+*Wednesday. Halfway there, I guess. 🐫*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--1.6°C - 🌫️ Fog
+-0.2°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **2017**: A terrorist attack on a Mosque in Al-Rawda, North Sinai, Egypt kills 311 people and injures 128.
-- **2016**: The government of Colombia and the Revolutionary Armed Forces of Colombia–People's Army sign a revised peace deal, bringing an end to the country's more than 50-year-long civil war.
-- **1992**: China Southern Airlines Flight 3943 crashes on approach to Guilin Qifengling Airport in Guilin, China, killing all 141 people on board.
+- **1986**: The King Fahd Causeway is officially opened in the Persian Gulf.
+- **1985**: A Soviet Air Force Antonov An-12 is shot down near Menongue in Angola's Cuando Cubango Province, killing 21.
+- **1981**: Pope John Paul II appoints Joseph Cardinal Ratzinger (the future Pope Benedict XVI) Prefect of the Congregation for the Doctrine of the Faith.
 
 <br>
 
 **💬 Quote**<br>
-> "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."<br>
-> — **Colin R. Davis**
+> "An un-examined life is not worth living."<br>
+> — **Socrates**
 
 <br>
 </td>
@@ -39,25 +39,30 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Unlike other cats, lions have a tuft of hair at the end of their tails.*
+*Two members of the cat family are distinct from all others: the clouded leopard and the cheetah. The clouded leopard does not roar like other big cats, nor does it groom or rest like small cats. The cheetah is unique because it is a running cat; all others are leaping cats. They are leaping cats because they slowly stalk their prey and then leap on it.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
-- [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
-- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-- [GPUI is getting its own repository](https://github.com/zed-industries/gpui)
-- [Per Arm's request, this site will be discontinued on 4 December 2026 :(](https://arm.jonpalmisc.com/)
-- [GLM-5.4: Toward generalized coding with our first loop transformer](https://z.ai/blog/glm-5.4)
-- [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/)
-- [Dario is hyping the dangers so OSS models are illegal and he stays in control](https://twitter.com/ylecun/status/2124550037912920090)
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
+- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+- [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
+- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
+- [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
+- [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: Wang Letian
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
