@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Wednesday, November 25, 2026**
-*Wednesday. Halfway there, I guess. 🐫*
+### 📅 Today is **Thursday, November 26, 2026**
+*Thursday is just Friday Jr. 🤷‍♂️*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--0.2°C - ☁️ Overcast
+0.0°C - ☁️ Overcast
 
 <br>
 
 **💥 On This Day**<br>
-- **1986**: The King Fahd Causeway is officially opened in the Persian Gulf.
-- **1985**: A Soviet Air Force Antonov An-12 is shot down near Menongue in Angola's Cuando Cubango Province, killing 21.
-- **1981**: Pope John Paul II appoints Joseph Cardinal Ratzinger (the future Pope Benedict XVI) Prefect of the Congregation for the Doctrine of the Faith.
+- **2021**: COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
+- **2011**: The Mars Science Laboratory launches to Mars with the Curiosity Rover.
+- **2003**: The Concorde makes its final flight, over Bristol, England.
 
 <br>
 
 **💬 Quote**<br>
-> "An un-examined life is not worth living."<br>
-> — **Socrates**
+> "Experience is a comb which nature gives us when we are bald."<br>
+> — **Chinese Proverb**
 
 <br>
 </td>
@@ -39,19 +39,19 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Two members of the cat family are distinct from all others: the clouded leopard and the cheetah. The clouded leopard does not roar like other big cats, nor does it groom or rest like small cats. The cheetah is unique because it is a running cat; all others are leaping cats. They are leaping cats because they slowly stalk their prey and then leap on it.*
+*Cats have 3 eyelids.*
 
 <br>
 
 **📰 Daily Tech News**
-- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)
-- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
-- [Get in, friends, the Atmosphere is happening](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
-- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
-- [Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
-- [Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)
-- [The Spray Bottle](https://mechanical-pencil.com/products/spray-bottle)
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
+- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
+- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
+- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
 
 <br>
 </td>
@@ -61,7 +61,7 @@
 
 ### 🌌 NASA Science
 
-> Source: Wang Letian
+> Source: NASA / APOD
 <img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
