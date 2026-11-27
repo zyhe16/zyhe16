@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Thursday, November 26, 2026**
-*Thursday is just Friday Jr. 🤷‍♂️*
+### 📅 Today is **Friday, November 27, 2026**
+*Friday. We made it. 🎉*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
-0.0°C - ☁️ Overcast
+-3.3°C - ☀️ Clear sky
 
 <br>
 
 **💥 On This Day**<br>
-- **2021**: COVID-19 pandemic: The World Health Organization identifies the SARS-CoV-2 Omicron variant.
-- **2011**: The Mars Science Laboratory launches to Mars with the Curiosity Rover.
-- **2003**: The Concorde makes its final flight, over Bristol, England.
+- **2004**: Pope John Paul II returns the relics of Saint John Chrysostom to the Eastern Orthodox Church.
+- **1999**: The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.
+- **1997**: Twenty-five people are killed in the second Souhane massacre in Algeria.
 
 <br>
 
 **💬 Quote**<br>
-> "Experience is a comb which nature gives us when we are bald."<br>
-> — **Chinese Proverb**
+> "To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."<br>
+> — **Criss Jami**
 
 <br>
 </td>
@@ -39,30 +39,25 @@
 <br>
 
 **🧠 Random Fact**<br>
-*Cats have 3 eyelids.*
+*The first cartoon cat was Felix the Cat in 1919. In 1940, Tom and Jerry starred in the first theatrical cartoon “Puss Gets the Boot.” In 1981 Andrew Lloyd Weber created the musical Cats, based on T.S. Eliot’s Old Possum’s Book of Practical Cats.*
 
 <br>
 
 **📰 Daily Tech News**
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-- [Jev is probably Qwen3.5-35B-A3B](https://modaic.dev/blog/latency-doesnt-lie)
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
-- [The New York Times tells photographers not to use the latest Photoshop](https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/)
-- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
-- [Slow Ubuntu security response times](https://www.openwall.com/lists/oss-security/2026/11/25/9)
-- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-- [Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server](https://opensec.in/blog/nfs2root-cve-2026-99362)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
+- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
+- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
+- [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
 
 <br>
 </td>
 </tr>
 </table>
-<br>
 
-### 🌌 NASA Science
-
-> Source: NASA / APOD
-<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
