@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- DAILY_CONTENT_START -->
-### 📅 Today is **Friday, November 27, 2026**
-*Friday. We made it. 🎉*
+### 📅 Today is **Saturday, November 28, 2026**
+*Saturday. Do not disturb. 😴*
 
 <table>
 <tr>
@@ -11,20 +11,20 @@
 <br>
 
 **🌤️ Eindhoven Weather**<br>
--3.3°C - ☀️ Clear sky
+Weather unavailable
 
 <br>
 
 **💥 On This Day**<br>
-- **2004**: Pope John Paul II returns the relics of Saint John Chrysostom to the Eastern Orthodox Church.
-- **1999**: The centre-left Labour Party takes control of the New Zealand government with leader Helen Clark becoming the first elected female prime minister in New Zealand's history.
-- **1997**: Twenty-five people are killed in the second Souhane massacre in Algeria.
+- **2020**: Over seven hundred civilians are massacred by the Ethiopian National Defense Force and Eritrean Army in Aksum, Ethiopia.
+- **1990**: British Prime Minister Margaret Thatcher resigns as leader of the Conservative Party and, therefore, as Prime Minister. She is succeeded in both positions by John Major.
+- **1971**: Wasfi al-Tal, Prime Minister of Jordan, is assassinated by the Black September unit of the Palestine Liberation Organization.
 
 <br>
 
 **💬 Quote**<br>
-> "To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."<br>
-> — **Criss Jami**
+> "Never was anything great achieved without danger."<br>
+> — **Niccolo Machiavelli**
 
 <br>
 </td>
@@ -39,25 +39,30 @@
 <br>
 
 **🧠 Random Fact**<br>
-*The first cartoon cat was Felix the Cat in 1919. In 1940, Tom and Jerry starred in the first theatrical cartoon “Puss Gets the Boot.” In 1981 Andrew Lloyd Weber created the musical Cats, based on T.S. Eliot’s Old Possum’s Book of Practical Cats.*
+*Most cats had short hair until about 100 years ago, when it became fashionable to own cats and experiment with breeding.*
 
 <br>
 
 **📰 Daily Tech News**
-- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-- [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-- [AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
-- [CTO of 'RansomwareHelp' indicted for wire fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-- [Rvoip: VoIP stack in Rust](https://github.com/eisenzopf/rvoip)
-- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono)
-- [Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)
+- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+- [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
+- [Source Control from Hell](https://frantic.im/git/)
+- [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
+- [Build your own amp modeler: $78 DIY pedal kit from TONE3000](https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit)
 
 <br>
 </td>
 </tr>
 </table>
+<br>
 
+### 🌌 NASA Science
+
+> Source: NASA / APOD
+<img src='https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png' width='100%' style='border-radius: 8px;'>
 
 <!-- DAILY_CONTENT_END -->
 
